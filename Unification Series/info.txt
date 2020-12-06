@@ -1,0 +1,10 @@
+Connecting insights across fields through equivalence or comparisons, not with superficial analogies but from hard First Principles.
+
+
+General forms of a title: 
+	- X is Y
+	- X versus Y
+
+Examples: 
+	- Intelligence is Information Compression
+	- Universal Approximation versus Turing Completeness

@@ -1,3 +1,3 @@
 # CyRo's Amateur Website
 
-Writings about (a subset of) things that interest me.
+Writings about things that interest me.
