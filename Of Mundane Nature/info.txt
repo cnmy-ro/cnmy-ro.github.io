@@ -1,1 +1,0 @@
-An example: "Insights from the Arduous yet Beautiful Journey Towards mastering Vim" or whatever
