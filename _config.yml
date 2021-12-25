@@ -20,7 +20,7 @@ url                      : "https://cnmy-ro.github.io" # the base hostname & pro
 baseurl                  : "/"
 repository               : "cnmy-ro/cnmy-ro.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logos/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -71,7 +71,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo.jpg"
+og_image                 : "/assets/images/profile_images/chinmay-profile.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Chinmay Rao"
-  avatar           : "/assets/images/chinmay-profile.jpg"
+  avatar           : "/assets/images/profile_images/chinmay-profile.jpg"
   bio              : "Human."
   location         : "Leiden, The Netherlands"
   links:
@@ -286,27 +286,6 @@ defaults:
   # _pages
   - scope:
       path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _artwork_images
-  - scope:
-      path: "_artwork_images"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _research_articles
-  - scope:
-      path: "_research_articles"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _oss_projects_description
-  - scope:
-      path: "_oss_projects_description"
       type: pages
     values:
       layout: single
