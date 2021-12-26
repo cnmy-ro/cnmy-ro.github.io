@@ -2,6 +2,7 @@
 title:  "ART Neural Computational Models for Image Clustering and Classification"
 excerpt: "Bachelor's project"
 layout: single
+author_profile: false
 toc: true
 toc_label: "Table of Contents"
 toc_sticky: True

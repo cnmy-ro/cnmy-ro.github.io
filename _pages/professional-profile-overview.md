@@ -12,7 +12,7 @@ header:
 
 I have a background in electronics engineering and artificial intelligence, with a focus on signal and image processing, computer vision, and deep learning. In general, I have always been interested in imaging systems and intelligent vision algorithms. More recently, this interest of mine was drawn towards deep learning methods applied to medical image analysis, synthesis, and reconstruction problems.
 
-On this page, you can can see an overview of (a select few of) my projects and publications completed as part of my education and research work. Click on the entries to read more about them. For more infomation, you can visit [my LinkedIn profile](https://www.linkedin.com/in/chinmay_rao) or download [my full CV]().
+On this page, you can can see an overview of (a select few of) my projects and publications completed as part of my education and research work. Click on the entries to read more about them. For more infomation, you can visit [my LinkedIn profile](https://www.linkedin.com/in/chinmay_rao) or download [my full CV](../assets/documents/CV-25_12_2021.pdf).
 
 
 

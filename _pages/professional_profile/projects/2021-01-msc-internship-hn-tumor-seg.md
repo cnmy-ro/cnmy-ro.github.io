@@ -1,6 +1,7 @@
 ---
 title:  "Head-and-Neck Tumor Segmentation in Multi-Modality PET-CT Images"
 layout: single
+author_profile: false
 toc: true
 toc_label: "Table of Contents"
 toc_sticky: True
