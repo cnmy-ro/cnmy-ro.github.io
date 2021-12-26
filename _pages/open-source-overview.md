@@ -10,9 +10,9 @@ header:
   caption: "Photo credit: [**Unsplash** @joshredd](https://unsplash.com/@joshredd)"
 ---
 
-Apart from my work, I like spending time tinkering with software and electronic hardware, writing code, and building useful applications. Up until now I have mostly worked solo on my personal projects, but I have recently grown more interested in team-based open source software (OSS) development. I look foward to contributing more to OSS projects in future, especially those in my domains of expertise.
+Apart from my work, I like spending time tinkering with software and electronic hardware, writing code, and building useful applications. Up until now I have mostly worked solo on my personal projects, but have recently grown more interested in team-based open source software (OSS) development. I look foward to contributing more to OSS projects in future, especially those in my domains of expertise.
 
-On this page, you can find a selected list of both my personal OSS projects as well those to which I have contributed. Click on them to visit their GitHub repositories. For a more detailed overview of my public repositories, check my [GitHub profile](https://github.com/cnmy-ro/).
+On this page, you can find a curated list of both my personal OSS projects as well those to which I have contributed. Click on them to read more. For a more detailed overview of my public repositories, check [my GitHub profile](https://github.com/cnmy-ro/).
 
 
 
