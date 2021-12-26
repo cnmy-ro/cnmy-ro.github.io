@@ -6,6 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/decoration_images/unsplash-image-11.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+classes: wide
 ---
 
 

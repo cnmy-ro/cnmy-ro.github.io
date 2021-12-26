@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-# theme                    : "minimal-mistakes-jekyll"
+# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : "-"
+title                    : "Personal Website"
+title_separator          : ""
 subtitle                 : "Deployed site"
 name                     : "Chinmay Rao"
 description              : "Personal Website"
@@ -259,16 +259,10 @@ compress_html:
 
 
 # Collections
-# collections:
-#   recipes:
-#     output: true
-#     permalink: /:collection/:path/
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:path/
-#   pets:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
+  artwork:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
