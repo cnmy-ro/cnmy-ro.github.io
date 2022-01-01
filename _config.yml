@@ -5,8 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-theme                    : "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -92,12 +92,12 @@ analytics:
 author:
   name             : "Chinmay Rao"
   avatar           : "/assets/images/profile_images/chinmay-profile.jpg"
-  bio              : "Engineer, aspiring scientist, artist, expat"
+  bio              : "Engineer, aspiring scientist, expat. I create art sometimes."
   location         : "Leiden, The Netherlands"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "chinmay.srao97@gmail.com"
+      url: "mailto:chinmay.srao97@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/chinmay_rao"
