@@ -11,7 +11,7 @@ header:
 
 
 
-Intro text ...
+Witings about things that interest me.
 
 
 

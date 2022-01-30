@@ -9,7 +9,4 @@ toc: true
 ---
 
 
-Machine lanuage
-layers of language translation is bureaucracy, slows things down
-high-level languages - human understandable but far from machine
-low-level - 
+...
