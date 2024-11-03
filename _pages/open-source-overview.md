@@ -21,7 +21,7 @@ A selection of my personal OSS projects (ranging from machine learning to comput
 
 - Ethica: Computational exploration of Spinoza's Ethics. [[GitHub]](https://github.com/cnmy-ro/ethica)
 
-- StyleGAN: Simplified re-implentation of StyleGAN (Karras et al. CVPR 2019) in PyTorch. [[GitHub]](https://github.com/cnmy-ro/stylegan)
+- StyleGAN: Simplified re-implementation of StyleGAN (Karras et al. CVPR 2019) in PyTorch. [[GitHub]](https://github.com/cnmy-ro/stylegan)
 
 
 
