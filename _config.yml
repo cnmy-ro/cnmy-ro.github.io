@@ -99,7 +99,7 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:chinmay.srao97@gmail.com"
     - label: "X"
-      icon: "fab fa-x-twitter"
+      icon: "fa-brands fa-square-x-twitter"
       url: "https://x.com/cnmy_ro"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
