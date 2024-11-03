@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Professional Profile"
-    url: /professional-profile-overview/
+  - title: "Research"
+    url: /section-research/
   - title: "Open Source Projects"
-    url: /open-source-overview/
+    url: /section-opensource/
   - title: "Artwork"
-    url: /artwork-overview/
-  - title: "Writings"
-    url: /writings-overview/
+    url: /section-artwork/
+  - title: "Blog"
+    url: /section-writings/
   # - title: "Extra Menu Item 1"
   #   url: /
   # - title: "Extra Menu Item 2"

@@ -1,6 +1,6 @@
 ---
-title: "Writings"
-permalink: /writings-overview/
+title: "Blog"
+permalink: /section-blog/
 layout: posts
 header:
   overlay_color: "#000"

@@ -1,6 +1,6 @@
 ---
-title: "Professional Profile"
-permalink: /professional-profile-overview/
+title: "Research"
+permalink: /section-research/
 layout: single
 classes: wide
 header:
