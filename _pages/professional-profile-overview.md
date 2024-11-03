@@ -10,33 +10,21 @@ header:
   caption: "Photo credit: [**Unsplash** @remyloz](https://unsplash.com/@remyloz)"
 ---
 
-I have a background in electronics engineering and artificial intelligence, with a focus on signal and image processing, computer vision, and deep learning. I have been interested in imaging systems and intelligent vision algorithms throughout my studies. More recently, this interest of mine was drawn towards deep learning methods applied to medical image analysis, synthesis, and reconstruction problems.
+I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, imaging systems, computer vision, and deep learning. More recently, this interest was drawn towards problems of medical image analysis, synthesis, and reconstruction.
 
-On this page, you can can see an overview of (a select few of) my projects and publications completed as part of my education and research work. Click on the entries to read more about them. For more infomation, you can visit [my LinkedIn profile](https://www.linkedin.com/in/chinmay_rao) or download [my full CV](../assets/documents/CV-25_12_2021.pdf).
-
-
-
------------
-## Projects
+Here you'll find an overview of (a selection of) my projects and publications. For a more complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en) or [LinkedIn](https://www.linkedin.com/in/chinmay_rao) profiles.
 
 
-### [Predicting Tumor Hypoxia Maps from FDG-PET/CT Images using GANs](professional_profile/projects/2021-07-msc-thesis-hypoxia.md)
-
-### [Head-and-Neck Tumor Segmentation in Multi-Modality PET-CT Images](professional_profile/projects/2021-01-msc-internship-hn-tumor-seg.md)
-
-### [ART Neural Computational Models for Image Clustering and Classification](professional_profile/projects/2018-11-btech-final-art.md)
-
-
-
----------------
 ## Publications
 
-Check [my Google Scholar profile](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en) for a comprehensive list.
+- Rao et al., A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling, [[arXiv preprint 2024]](https://arxiv.org/abs/2409.13477)
+
+- Rao, Pai et al., Oropharyngeal Tumour Segmentation using Ensemble 3D PET-CT Fusion Networks for the HECKTOR Challenge, [[Springer LNCS 2021]](https://link.springer.com/chapter/10.1007/978-3-030-67194-5_8)
 
 
-### [Oropharyngeal Tumour Segmentation using Ensemble 3D PET-CT Fusion Networks for the HECKTOR Challenge](professional_profile/publications/2021-01-oropharyngeal.md)
 
+## Other Research Projects
 
+- Master thesis (2021): [Predicting Tumor Hypoxia Maps from FDG-PET/CT Images using GANs](https://github.com/cnmy-ro/master-thesis)
 
-----------------
-## Presentations
+- Bachelor thesis (2018): [Adaptive Resonance Theory (ART) based Neural Computational Models for Image Clustering and Classification](professional_profile/projects/2018-11-btech-final-art.md)

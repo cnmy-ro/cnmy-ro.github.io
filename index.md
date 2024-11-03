@@ -12,8 +12,6 @@ classes: wide
 
 Welcome to my website!
 
-I am a 24 year-old Indian man currently living in the Netherlands. By profession, I am a full time PhD candidate at the Leids Universitair Medisch Centrum (LUMC, Leiden) working towards accelerating MR image formation by employing modern deep learning methods. In my free time, I mostly enjoy working on interesting technical projects, reading, and communicating my ideas via sketching, painting, and writing.
+I am a PhD candidate at the Leiden University Medical Center (Leiden) working on accelerating MR imaging. I like spending my free time building interesting artifacts (code, artwork, blog), reading, and cycling.
 
-I created this website to serve as a centralized platform where I can showcase all of my work and contributions, both professional and personal. Feel free to contact me via email or any of my social media handles, all of which are listed on the sidebar.
-
-Note: This website is a work in progress
+This website (currently WIP) serves as a centralized hub showcasing my work and contributions, both professional and personal.

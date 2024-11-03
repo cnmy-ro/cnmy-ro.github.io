@@ -14,7 +14,4 @@ header:
 ---
 
 
-Intro text
-
-----------
-## Gallery
+Visit my [[Instagram]](https://instagram.com/cnmy_ro).
