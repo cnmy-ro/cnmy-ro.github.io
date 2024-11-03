@@ -98,6 +98,9 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:chinmay.srao97@gmail.com"
+    - label: "X"
+      icon: "fab x-twitter"
+      url: "https://x.com/cnmy_ro"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/chinmay_rao"
@@ -112,10 +115,7 @@ author:
       url: "https://github.com/cnmy-ro"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/cnmy_ro"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cnmy_ro"
+      url: "https://instagram.com/cnmy_ro"    
 
 
 # Site Footer
@@ -124,12 +124,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cnmy-ro"
+    - label: "X"
+      icon: "fa-brands fa-x-twitter"
+      url: "https://x.com/cnmy_ro"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/cnmy_ro"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/cnmy_ro"
+      url: "https://instagram.com/cnmy_ro"    
 
 
 # Reading Files
