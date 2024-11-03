@@ -11,9 +11,4 @@ header:
 
 
 
-Witings about things that interest me.
-
-
-
-----------------
-## Posts by Year
+Writings about things that interest me.
