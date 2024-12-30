@@ -10,9 +10,9 @@ header:
   caption: "Photo credit: [**Unsplash** @remyloz](https://unsplash.com/@remyloz)"
 ---
 
-I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, imaging systems, computer vision, and deep learning. More recently, this interest was drawn towards problems of medical image analysis, synthesis, and reconstruction.
+I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, imaging systems, physics, computer vision, and deep learning. More recently, this interest was drawn towards the problems in medical image analysis, synthesis, and reconstruction.
 
-Here you'll find an overview of (a selection of) my projects and publications. For a more complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en) or [LinkedIn](https://www.linkedin.com/in/chinmay_rao) profiles.
+Following is an overview of (a selection of) my projects and publications. For a complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en) or [LinkedIn](https://www.linkedin.com/in/chinmay_rao).
 
 
 ## Publications

@@ -10,12 +10,12 @@ header:
   caption: "Photo credit: [**Unsplash** @joshredd](https://unsplash.com/@joshredd)"
 ---
 
-A selection of my personal OSS projects (ranging from machine learning to computational art and philosophy) as well those to which I have contributed. For a more complete list, visit my [GitHub](https://github.com/cnmy-ro/) profile.
+A selection of my personal OSS projects (ranging from machine learning to computational art and philosophy) as well those to which I have contributed. For a more complete list, visit my [GitHub](https://github.com/cnmy-ro/).
 
 
 ## Personal Projects
 
-- **`nabla`**: Automatic differentiation engine written from scratch. [[GitHub]](https://github.com/cnmy-ro/nabla)
+- **nabla**: Automatic differentiation engine written from scratch. [[GitHub]](https://github.com/cnmy-ro/nabla)
 
 - **Psybernetic Art**: Open-source computational art. [[GitHub]](https://github.com/cnmy-ro/psybernetic-art)
 
@@ -27,4 +27,4 @@ A selection of my personal OSS projects (ranging from machine learning to comput
 
 ## Contributions to Existing Projects
 
-- **`ganslate`**: Simple and extensible GAN image-to-image translation framework. [[GitHub]](https://github.com/ganslate-team/ganslate)
+- **ganslate**: Simple and extensible GAN image-to-image translation framework. [[GitHub]](https://github.com/ganslate-team/ganslate)

@@ -9,6 +9,3 @@ header:
   caption: "Photo credit: [**Unsplash** @retrosupply](https://unsplash.com/@retrosupply)"
 ---
 
-
-
-Writings about things that interest me.
