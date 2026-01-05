@@ -10,14 +10,14 @@ header:
   caption: "Photo credit: [**Unsplash** @remyloz](https://unsplash.com/@remyloz)"
 ---
 
-I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, imaging systems, generative modeling, and representation learning. More recently, this interest was drawn towards the problems in medical image analysis, synthesis, and reconstruction.
+I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, generative modeling, representation learning, and imaging systems. More recently, this interest was drawn towards problems in medical image analysis, synthesis, and reconstruction.
 
-Following is an overview of (a selection of) my projects and publications. For a complete account, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en) or [LinkedIn](https://www.linkedin.com/in/chinmay_rao).
+Following is a short overview of my publications. For a more complete account, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en) or [LinkedIn](https://www.linkedin.com/in/chinmay_rao).
 
 
 ## First-Author Journal Publications
 
-- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling, [[arXiv preprint 2024]](https://arxiv.org/abs/2409.13477) [[code]]()
+- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling. [[arXiv 2025]](https://arxiv.org/abs/2409.13477) [[code]]()
 
 
 ## First-Author Conference Papers
@@ -50,4 +50,4 @@ Following is an overview of (a selection of) my projects and publications. For a
 
 - Master thesis (2021): [Predicting Tumor Hypoxia Maps from FDG-PET/CT Images using GANs](https://github.com/cnmy-ro/master-thesis)
 
-- Bachelor thesis (2018): [Adaptive Resonance Theory (ART) based Neural Computational Models for Image Clustering and Classification](professional_profile/projects/2018-11-btech-final-art.md)
+- Bachelor thesis (2018): [Adaptive Resonance Theory (ART) based Neural Computational Models for Image Clustering and Classification](https://github.com/cnmy-ro/ART-visual)
