@@ -15,7 +15,7 @@ A selection of my personal OSS projects (ranging from machine learning to comput
 
 ## Personal Projects
 
-- **nabla**: Automatic differentiation engine written from scratch. [[GitHub]](https://github.com/cnmy-ro/nabla)
+- **nabla**: Automatic differentiation engine wrapping over NumPy. [[GitHub]](https://github.com/cnmy-ro/nabla)
 
 - **Psybernetic Art**: Open-source computational art. [[GitHub]](https://github.com/cnmy-ro/psybernetic-art)
 
