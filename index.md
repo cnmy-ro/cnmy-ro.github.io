@@ -12,6 +12,6 @@ classes: wide
 
 Welcome to my website.
 
-I am a PhD candidate at the Leiden University Medical Center (Netherlands) working on accelerating MR imaging and more broadly interested in imaging systems, signal processing, physics, and deep learning. I like spending my free time building interesting artifacts (code, artwork, etc.), reading, and cycling.
+I am a PhD candidate at the Leiden University Medical Center (Netherlands) working on accelerating MR imaging and more broadly interested in imaging systems, representation learning, and deep generative learning. I like spending my free time building interesting artifacts (code, artwork, etc.), reading, and cycling.
 
 This website (WIP) serves as a compendium of my work and contributions, both professional and personal.
