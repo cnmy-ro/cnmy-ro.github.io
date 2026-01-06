@@ -25,6 +25,6 @@ A selection of my personal OSS projects (ranging from machine learning to comput
 
 
 
-## Contributions to Existing Projects
+## Contributions
 
 - **ganslate**: Simple and extensible GAN image-to-image translation framework. [[GitHub]](https://github.com/ganslate-team/ganslate)
