@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Sig/Num Blog"
 permalink: /section-blog/
 layout: posts
 header:

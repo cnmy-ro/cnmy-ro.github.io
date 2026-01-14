@@ -15,4 +15,4 @@ header:
 ---
 
 
-Visit my [[Instagram]](https://instagram.com/cnmy_ro).
+Visit my [Instagram](https://instagram.com/cnmy_ro).
