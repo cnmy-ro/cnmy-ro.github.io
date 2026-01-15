@@ -1,12 +1,13 @@
 ---
 title: "Microstructure"
-excerpt: "Infinite zoom into the foxglove flower microstructure."
+excerpt: ""
 layout: single
 classes: wide
 header:
   teaser: /assets/images/artwork_images/microstructure.jpg
 ---
 
+Infinite zoom into the foxglove flower microstructure.
 
 <figure class="full">
     <a href="/assets/images/artwork_images/microstructure.jpg">
