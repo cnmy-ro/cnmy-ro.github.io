@@ -4,11 +4,11 @@ excerpt: "Video comprised of thousands of frames, produced algorithmically from 
 layout: single
 classes: wide
 header:
-  teaser: /assets/images/artwork_images/primal_engine.png
+  teaser: /assets/images/artwork_images/primal_engine.jpg
 ---
 
 
 <figure class="full">
-    <a href="/assets/images/artwork_images/primal_engine.png">
-      <img src="/assets/images/artwork_images/primal_engine.png" style="width:100%"></a>
+    <a href="/assets/images/artwork_images/primal_engine.jpg">
+      <img src="/assets/images/artwork_images/primal_engine.jpg" style="width:100%"></a>
 </figure>
