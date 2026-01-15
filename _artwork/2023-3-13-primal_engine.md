@@ -7,8 +7,8 @@ header:
   teaser: /assets/images/artwork_images/primal_engine.png
 ---
 
-<!-- 
+
 <figure class="full">
     <a href="/assets/images/artwork_images/primal_engine.png">
       <img src="/assets/images/artwork_images/primal_engine.png" style="width:100%"></a>
-</figure> -->
+</figure>
