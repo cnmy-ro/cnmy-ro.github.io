@@ -5,8 +5,8 @@ layout: collection
 collection: artwork
 sort_order: reverse
 # layout: single
-# classes: wide
-entries_layout: grid
+classes: wide
+# entries_layout: grid
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
