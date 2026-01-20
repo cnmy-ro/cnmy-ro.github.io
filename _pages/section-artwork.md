@@ -15,4 +15,4 @@ header:
 ---
 
 
-Visit my [Instagram](https://instagram.com/cnmy_ro).
+This is a selection of some of the artworks I have produced. Visit my [Instagram](https://instagram.com/cnmy_ro) for more.
