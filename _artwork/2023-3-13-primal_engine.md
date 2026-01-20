@@ -11,5 +11,5 @@ Algorithmic construction of the Vitrivian Man. Video produced with code, written
 
 <figure class="full">
     <a href="/assets/images/artwork_images/primal_engine.jpg">
-      <img src="/assets/images/artwork_images/primal_engine.jpg" style="width:100%"></a>
+      <img src="/assets/images/artwork_images/primal_engine.jpg" style="width:80%"></a>
 </figure>

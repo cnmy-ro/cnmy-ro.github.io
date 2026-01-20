@@ -11,5 +11,5 @@ Infinite zoom into the imaginary microstructure of a foxglove flower. Made with 
 
 <figure class="full">
     <a href="/assets/images/artwork_images/microstructure.jpg">
-      <img src="/assets/images/artwork_images/microstructure.jpg" style="width:100%"></a>
+      <img src="/assets/images/artwork_images/microstructure.jpg" style="width:80%"></a>
 </figure>
