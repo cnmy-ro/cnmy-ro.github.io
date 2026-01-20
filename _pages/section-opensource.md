@@ -31,6 +31,6 @@ Following is a selection of my research code and personal OSS projects (ranging 
 
 - **Psybernetic Art**: Open-source computational art. [(GitHub)](https://github.com/cnmy-ro/psybernetic-art)
 
-- **Ethica**: Computational exploration of the [Ethics](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics) of Benedict de Spinoza. [(GitHub)](https://github.com/cnmy-ro/ethica)
+- **Ethica**: Computational exploration of the [*Ethics*](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics) of Benedict de Spinoza. [(GitHub)](https://github.com/cnmy-ro/ethica)
 
 - **StyleGAN**: Simplified re-implementation of StyleGAN [(Karras et al. CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) in PyTorch. [(GitHub)](https://github.com/cnmy-ro/stylegan)
