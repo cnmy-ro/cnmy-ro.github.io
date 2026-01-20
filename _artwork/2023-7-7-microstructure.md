@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/artwork_images/microstructure.jpg
 ---
 
-Infinite zoom into the foxglove flower microstructure.
+Infinite zoom into the imaginary microstructure of a foxglove flower. Made with original photographs combined with neural deep dream. Part of my [Psybernetic Art](https://github.com/cnmy-ro/psybernetic-art) series.
 
 <figure class="full">
     <a href="/assets/images/artwork_images/microstructure.jpg">

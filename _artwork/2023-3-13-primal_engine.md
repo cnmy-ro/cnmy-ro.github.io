@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/artwork_images/primal_engine.jpg
 ---
 
-Video comprised of thousands of frames, produced algorithmically from scratch. While some scenes are purely theatrical, others show the solving of actual computational problems in real time -- e.g. particle swarm optmization and Fourier approximation.
+Algorithmic construction of the Vitrivian Man. Video produced with code, written frame-by-frame. While some scenes are purely theatrical, some utilize the solution of actual computational problems in real time -- e.g. particle swarm optmization on a 2D loss landscape and Fourier approximation of 2D shapes with circles. Others use the evolution of computational systems such as Conway's Game of Life and neural deep dream. Part of my [Psybernetic Art](https://github.com/cnmy-ro/psybernetic-art) series.
 
 <figure class="full">
     <a href="/assets/images/artwork_images/primal_engine.jpg">
