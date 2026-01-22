@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash** @joshredd](https://unsplash.com/@joshredd)"
 ---
 
-Following is a selection of my open-source contributions. Visit my [GitHub](https://github.com/cnmy-ro/) for a more complete list.
+Following is a selection of my open-source contributions. Visit my [GitHub](https://github.com/cnmy-ro/) for a complete list.
 
 
 ## Research Code
