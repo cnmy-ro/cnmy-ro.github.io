@@ -19,6 +19,8 @@ Following is a selection of my research code and personal OSS projects (ranging 
 
 - **LL-MR**: Low-level utilility library for computational MRI. [(GitHub)](https://github.com/cnmy-ro/llmr)
 
+- **MRF-Sim**: Python library for MR fingerprinting. Implements sequence description, EPG simulation, and dictionary matching. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
+
 - **ROCI**: Repository of computational imaging algorithms. [(GitHub)](https://github.com/cnmy-ro/roci)
 
 - **Ganslate**: Simple and extensible GAN image-to-image translation framework. [(GitHub)](https://github.com/ganslate-team/ganslate)
