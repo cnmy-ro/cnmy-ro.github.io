@@ -10,10 +10,12 @@ header:
   caption: "Photo credit: [**Unsplash** @joshredd](https://unsplash.com/@joshredd)"
 ---
 
-Following is a selection of my research code and personal OSS projects (ranging from machine learning to computational art and philosophy). Visit my [GitHub](https://github.com/cnmy-ro/) for a more complete list.
+Following is a selection of my open-source contributions. Visit my [GitHub](https://github.com/cnmy-ro/) for a more complete list.
 
 
 ## Research Code
+
+Research software publicly released during my PhD and Masters.
 
 - **PnP-CoSMo**: Iterative algorithm for multi-contrast MRI reconstruction based on content/style modeling. [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
@@ -29,10 +31,14 @@ Following is a selection of my research code and personal OSS projects (ranging 
 
 ## Personal Projects
 
+Personal open-source projects on topics ranging from machine learning to computational art and philosophy.
+
 - **Nabla**: Automatic differentiation engine (a.k.a. "autograd") wrapper over NumPy. [(GitHub)](https://github.com/cnmy-ro/nabla)
+
+- **StyleGAN**: Simplified re-implementation of StyleGAN [(Karras et al. CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) in PyTorch. [(GitHub)](https://github.com/cnmy-ro/stylegan)
 
 - **Psybernetic Art**: Open-source computational art. [(GitHub)](https://github.com/cnmy-ro/psybernetic-art)
 
-- **Ethica**: Computational exploration of the [*Ethics*](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics) of Benedict de Spinoza. [(GitHub)](https://github.com/cnmy-ro/ethica)
+- **Ethica**: Computational exploration of the [*"Ethics"*](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics) of Benedict de Spinoza. [(GitHub)](https://github.com/cnmy-ro/ethica)
 
-- **StyleGAN**: Simplified re-implementation of StyleGAN [(Karras et al. CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) in PyTorch. [(GitHub)](https://github.com/cnmy-ro/stylegan)
+- **GEB**:  Computational exploration inspired by [*"Gödel Escher Bach"*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) of Douglas Hofstadter. [(GitHub)](https://github.com/cnmy-ro/geb)
