@@ -9,9 +9,6 @@ toc: true
 ---
 
 
-# A Short Exposition of the Popper-Miller Theorem
-
-
 ## Introduction
 
 Probability theory generalizes propositional logic to reasoning with degrees of certainty and has therefore been used as the foundation of the scientific language in which humanity's best theories of nature are expressed. 
