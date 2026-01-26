@@ -26,57 +26,57 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 ## Proof
 
 ### Notation
-- $$h$$: proposition representing the general hypothesis
-- $$e$$: proposition representing the local empirical evidence in favor of $$h$$
+- $h$: proposition representing the general hypothesis
+- $e$: proposition representing the local empirical evidence in favor of $h$
 
 ### The Given
-- $$e$$ is deducible from $$h$$, i.e. $$p(e|h) = 1$$
+- $e$ is deducible from $h$, i.e. $p(e|h) = 1$
 - Bayes rule: $p(h|e) = \frac{p(h) p(e|h)}{p(e)}$
-- Assume $$0 < p(e) < 1$$ and $$p(h) > 0$$
-- Hence: $$p(h|e) > p(h)$$ (Eq.1)
-- That is, the probability of $$h$$ increases in the light of $$e$$.
-- This may lead to the mistaken interpretation that $$h$$ is induced from $$e$$ by the process of Bayesian probabilistic inference.
+- Assume $0 < p(e) < 1$ and $p(h) > 0$
+- Hence: $p(h|e) > p(h)$ (Eq.1)
+- That is, the probability of $h$ increases in the light of $e$.
+- This may lead to the mistaken interpretation that $h$ is induced from $e$ by the process of Bayesian probabilistic inference.
 
 ### The Problem Formulation
-- Popper's decomposition: $$h = (e \lor h) (e \rightarrow h) = d n$$
-    - where $$d = (e \lor h)$$ is the component of $$h$$ deducible from $$e$$, and $$n=(e \rightarrow h)$$ is the non-deducible component.
-    - In other words, $$h$$ is true if $$e$$ is true AND $$h$$ is true beyond the scope of $$e$$.
+- Popper's decomposition: $h = (e \lor h) (e \rightarrow h) = d n$
+    - where $d = (e \lor h)$ is the component of $h$ deducible from $e$, and $n=(e \rightarrow h)$ is the non-deducible component.
+    - In other words, $h$ is true if $e$ is true AND $h$ is true beyond the scope of $e$.
 - Now:
-    - Without knowing $$e$$: $$p(h) = p(n) p(d)$$
-    - In the light of $$e$$: $$p(h|e) = p(n|e) p(d|e) = p(n|e) \cdot 1$$
-- $$p(h|e)$$ is greater than $$p(h)$$ (from Eq.1) and $$p(d|e)=1$$ is greater than $$p(d)$$. But, it's not clear whether the probability of $$n$$ increases in the light of $$e$$.
-- Since $$n$$ goes beyond the scope of the evidence $$e$$, the problem of induction can be formulated as follows: 
-    - Is $$p(n|e) > p(n)$$?
+    - Without knowing $e$: $p(h) = p(n) p(d)$
+    - In the light of $e$: $p(h|e) = p(n|e) p(d|e) = p(n|e) \cdot 1$
+- $p(h|e)$ is greater than $p(h)$ (from Eq.1) and $p(d|e)=1$ is greater than $p(d)$. But, it's not clear whether the probability of $n$ increases in the light of $e$.
+- Since $n$ goes beyond the scope of the evidence $e$, the problem of induction can be formulated as follows: 
+    - Is $p(n|e) > p(n)$?
 
 
 ### A Visual Proof
-Truth value of $$n=e \rightarrow h$$ as a function of $$e$$ and $$h$$ is shown in the following table:
+Truth value of $n=e \rightarrow h$ as a function of $e$ and $h$ is shown in the following table:
 
 ![e implies h](/assets/images/signum_figs/fig--popmiltldr--eimph.drawio.png)
 
 Note that:
-- With no knowledge of $$e$$, proposition $$n$$ holds in 3 out of 4 possibilities. In the light of $$e$$, it holds only in 1 out of 2 possibilities. 
-- Thus, the more likely $$e$$ is to be `True`, the less likely $$n$$ is to be `True`.
+- With no knowledge of $e$, proposition $n$ holds in 3 out of 4 possibilities. In the light of $e$, it holds only in 1 out of 2 possibilities. 
+- Thus, the more likely $e$ is to be `True`, the less likely $n$ is to be `True`.
 
 More concretely:
-- Since $$p(n) = p(e,h)p(n|e,h) + p(-e,h)p(n|-e,h) + p(-e,-h)p(n|-e,-h)$$ 
+- Since $p(n) = p(e,h)p(n|e,h) + p(-e,h)p(n|-e,h) + p(-e,-h)p(n|-e,-h)$ 
 
-  $$= p(e)p(h|e)\cdot 1 + p(-e,h)\cdot 1 + p(-e,-h)\cdot 1$$ 
+  $= p(e)p(h|e)\cdot 1 + p(-e,h)\cdot 1 + p(-e,-h)\cdot 1$ 
   
-  $$= p(e)p(h|e) + p(-e)$$,
-- And $$p(n|e) = p(h)p(n|e,h) = p(h)\cdot 1 = p(h)$$,
-- Therefore, $$p(n) - p(n|e) = p(e)p(h|e) + p(-e) - p(h|e)$$ 
+  $= p(e)p(h|e) + p(-e)$,
+- And $p(n|e) = p(h)p(n|e,h) = p(h)\cdot 1 = p(h)$,
+- Therefore, $p(n) - p(n|e) = p(e)p(h|e) + p(-e) - p(h|e)$ 
     
-    $$= p(-e) - p(h|e)(1 - p(e))$$ 
+    $= p(-e) - p(h|e)(1 - p(e))$ 
     
-    $$= p(-e)(1 - p(h|e))$$
+    $= p(-e)(1 - p(h|e))$
     
-    $$= p(-e)p(-h|e) > 0$$.
+    $= p(-e)p(-h|e) > 0$.
 - Q.E.D.
 
 In other words:
-- The probability of the non-deducible component $$n$$ decreases after observing $$e$$. The net increase from $$p(h)$$ to $$p(h|e)$$ via Bayesian inference is because the increase from $$p(d)$$ to $$p(d|e)=1$$ more than compensates for the drop from $$p(n)$$ to $$p(n|e)$$.
-- The drop from $$p(n)$$ to $$p(n|e)$$ is proportional to both $$p(-e)$$ and $$p(-h|e)$$.
+- The probability of the non-deducible component $n$ decreases after observing $e$. The net increase from $p(h)$ to $p(h|e)$ via Bayesian inference is because the increase from $p(d)$ to $p(d|e)=1$ more than compensates for the drop from $p(n)$ to $p(n|e)$.
+- The drop from $p(n)$ to $p(n|e)$ is proportional to both $p(-e)$ and $p(-h|e)$.
 
 
 ## Conclusion
