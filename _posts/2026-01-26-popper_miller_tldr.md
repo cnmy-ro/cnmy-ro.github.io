@@ -30,8 +30,8 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 - $$e$$: proposition representing the local empirical evidence in favor of $$h$$
 
 ### The Given
-- $$e$$ is deducible from $$h$$: $$p(e|h) = 1$$
-- Bayes rule: $$p(h|e) = \frac{p(h) p(e|h)}{p(e)}$$
+- $$e$$ is deducible from $$h$$, i.e. $$p(e|h) = 1$$
+- Bayes rule: $p(h|e) = \frac{p(h) p(e|h)}{p(e)}$
 - Assume $$0 < p(e) < 1$$ and $$p(h) > 0$$
 - Hence: $$p(h|e) > p(h)$$ (Eq.1)
 - That is, the probability of $$h$$ increases in the light of $$e$$.
