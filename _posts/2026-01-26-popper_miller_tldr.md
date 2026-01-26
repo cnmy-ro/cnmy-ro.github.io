@@ -30,10 +30,10 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 - $e$: proposition representing the local empirical evidence in favor of $h$
 
 ### The Given
-- $e$ is deducible from $h$, i.e. $p(e|h) = 1$
-- Bayes rule: $p(h|e) = \frac{p(h) p(e|h)}{p(e)}$
+- $e$ is deducible from $h$, i.e. $p(e\mid h) = 1$
+- Bayes rule: $p(h\mid e) = \frac{p(h) p(e\mid h)}{p(e)}$
 - Assume $0 < p(e) < 1$ and $p(h) > 0$
-- Hence: $p(h|e) > p(h)$ (Eq.1)
+- Hence: $p(h\mid e) > p(h)$ (Eq.1)
 - That is, the probability of $h$ increases in the light of $e$.
 - This may lead to the mistaken interpretation that $h$ is induced from $e$ by the process of Bayesian probabilistic inference.
 
@@ -43,10 +43,10 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
     - In other words, $h$ is true if $e$ is true AND $h$ is true beyond the scope of $e$.
 - Now:
     - Without knowing $e$: $p(h) = p(n) p(d)$
-    - In the light of $e$: $p(h|e) = p(n|e) p(d|e) = p(n|e) \cdot 1$
-- $p(h|e)$ is greater than $p(h)$ (from Eq.1) and $p(d|e)=1$ is greater than $p(d)$. But, it's not clear whether the probability of $n$ increases in the light of $e$.
+    - In the light of $e$: $p(h\mid e) = p(n\mid e) p(d\mid e) = p(n\mid e) \cdot 1$
+- $p(h\mid e)$ is greater than $p(h)$ (from Eq.1) and $p(d\mid e)=1$ is greater than $p(d)$. But, it's not clear whether the probability of $n$ increases in the light of $e$.
 - Since $n$ goes beyond the scope of the evidence $e$, the problem of induction can be formulated as follows: 
-    - Is $p(n|e) > p(n)$?
+    - Is $p(n\mid e) > p(n)$?
 
 
 ### A Visual Proof
@@ -59,24 +59,24 @@ Note that:
 - Thus, the more likely $e$ is to be `True`, the less likely $n$ is to be `True`.
 
 More concretely:
-- Since $p(n) = p(e,h)p(n|e,h) + p(-e,h)p(n|-e,h) + p(-e,-h)p(n|-e,-h)$ 
+- Since $p(n) = p(e,h)p(n\mid e,h) + p(-e,h)p(n\mid -e,h) + p(-e,-h)p(n\mid -e,-h)$ 
 
-  $= p(e)p(h|e)\cdot 1 + p(-e,h)\cdot 1 + p(-e,-h)\cdot 1$ 
+  $= p(e)p(h\mid e)\cdot 1 + p(-e,h)\cdot 1 + p(-e,-h)\cdot 1$ 
   
-  $= p(e)p(h|e) + p(-e)$,
-- And $p(n|e) = p(h)p(n|e,h) = p(h)\cdot 1 = p(h)$,
-- Therefore, $p(n) - p(n|e) = p(e)p(h|e) + p(-e) - p(h|e)$ 
+  $= p(e)p(h\mid e) + p(-e)$,
+- And $p(n\mid e) = p(h)p(n\mid e,h) = p(h)\cdot 1 = p(h)$,
+- Therefore, $p(n) - p(n\mid e) = p(e)p(h\mid e) + p(-e) - p(h\mid e)$ 
     
-    $= p(-e) - p(h|e)(1 - p(e))$ 
+    $= p(-e) - p(h\mid e)(1 - p(e))$ 
     
-    $= p(-e)(1 - p(h|e))$
+    $= p(-e)(1 - p(h\mid e))$
     
-    $= p(-e)p(-h|e) > 0$.
+    $= p(-e)p(-h\mid e) > 0$.
 - Q.E.D.
 
 In other words:
-- The probability of the non-deducible component $n$ decreases after observing $e$. The net increase from $p(h)$ to $p(h|e)$ via Bayesian inference is because the increase from $p(d)$ to $p(d|e)=1$ more than compensates for the drop from $p(n)$ to $p(n|e)$.
-- The drop from $p(n)$ to $p(n|e)$ is proportional to both $p(-e)$ and $p(-h|e)$.
+- The probability of the non-deducible component $n$ decreases after observing $e$. The net increase from $p(h)$ to $p(h\mid e)$ via Bayesian inference is because the increase from $p(d)$ to $p(d\mid e)=1$ more than compensates for the drop from $p(n)$ to $p(n\mid e)$.
+- The drop from $p(n)$ to $p(n\mid e)$ is proportional to both $p(-e)$ and $p(-h\mid e)$.
 
 
 ## Conclusion
