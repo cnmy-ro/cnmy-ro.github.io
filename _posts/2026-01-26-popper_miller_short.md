@@ -1,6 +1,6 @@
 ---
-title: "An Short Exposition of the Popper-Miller Theorem"
-excerpt: " ..."
+title: "A Short Exposition of the Popper-Miller Theorem"
+excerpt: ""
 last_modified_at: 2026-01-26T20:00:00-00:00
 author_profile: false
 header:
@@ -9,7 +9,7 @@ toc: true
 ---
 
 
-# An Short Exposition of the Popper-Miller Theorem
+# A Short Exposition of the Popper-Miller Theorem
 
 
 ## Introduction
