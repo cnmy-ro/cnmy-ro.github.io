@@ -1,5 +1,5 @@
 ---
-title: "Pop Mil"
+title: "An Short Exposition of the Popper-Miller Theorem"
 excerpt: " ..."
 last_modified_at: 2026-01-14T09:45:06-05:00
 author_profile: false
@@ -52,7 +52,7 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 ### A Visual Proof
 Truth value of $n=e \rightarrow h$ as a function of $e$ and $h$ is shown in the following table:
 
-![e implies h](figs/fig--popmiltldr--eimph.drawio.png)
+![e implies h](/assets/images/signum_figs/fig--popmiltldr--eimph.drawio.png)
 
 Note that:
 - With no knowledge of $e$, proposition $n$ holds in 3 out of 4 possibilities. In the light of $e$, it holds only in 1 out of 2 possibilities. 
