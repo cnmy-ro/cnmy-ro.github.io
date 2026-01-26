@@ -14,8 +14,8 @@ toc: true
 
 ## Introduction
 
-Probability theory generalizes propositional logic and has therefore been used as the foundation of the scientific language in which humanity's best theories of nature are expressed. 
-Science has been mistakenly understood to be driven by the process of induction -- of obtaining supposedly absolute and general laws from limited observations of nature.
+Probability theory generalizes propositional logic to reasoning with degrees of certainty and has therefore been used as the foundation of the scientific language in which humanity's best theories of nature are expressed. 
+Science has often been mis-understood to be driven by the process of induction -- of obtaining supposedly absolute and general laws from limited observations of nature.
 Thus, under this assumption, it is natural to expect probabilistic logic to be able to explain the phenomenon of induction.
 Popper and Miller's result shatters this expectation. This short article attempts to be an intuitive exposition of the Popper-Miller Theorem [(Popper and Miller, Letters to Nature 1985)](https://fitelson.org/probability/popper_miller.pdf). 
 
