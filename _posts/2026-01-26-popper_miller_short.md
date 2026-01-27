@@ -37,7 +37,7 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 ### The Problem Formulation
 - Popper's decomposition: $h = (e \lor h) (e \rightarrow h) = d n$
     - where $d = (e \lor h)$ is the component of $h$ deducible from $e$, and $n=(e \rightarrow h)$ is the non-deducible component.
-    - In other words, $h$ is true if $e$ is true AND $h$ is true beyond the scope of $e$.
+    - In other words, $h$ is true if $e$ is true AND $h$ holds beyond the scope of $e$.
 - Now:
     - Without knowing $e$: $p(h) = p(n) p(d)$
     - In the light of $e$: $p(h\mid e) = p(n\mid e) p(d\mid e) = p(n\mid e) \cdot 1$
