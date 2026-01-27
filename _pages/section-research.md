@@ -43,7 +43,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 - Pai, Hadzic, Rao, Zhovannik, Dekker, Traverso, Asteriadis, Hortal. *"Frequency-domain-based structure losses for cyclegan-based cone-beam computed tomography translation."* [(Sensors 2023)](https://www.mdpi.com/1424-8220/23/3/1089)
 
-- Oreiller et al. *"Head and neck tumor segmentation in PET/CT: The HECKTOR challenge."* [(Medical Image Analysis 202)](https://www.sciencedirect.com/science/article/pii/S1361841521003819)
+- Oreiller et al. *"Head and neck tumor segmentation in PET/CT: The HECKTOR challenge."* [(Medical Image Analysis 2022)](https://www.sciencedirect.com/science/article/pii/S1361841521003819)
 
 
 ## Other Research Projects
