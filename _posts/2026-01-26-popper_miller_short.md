@@ -20,13 +20,11 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 > Given a set of local observations (local in time, space, etc.), how does it logically produce (or rather "induce") a general theory whose reach goes well beyond the local scope of this data?
 
 
-## Proof
-
-### Notation
+## Notation
 - $h$: proposition representing the general hypothesis
 - $e$: proposition representing the local empirical evidence in favor of $h$
 
-### The Given
+## The Given
 - $e$ is deducible from $h$, i.e. $p(e\mid h) = 1$
 - Bayes rule: $p(h\mid e) = \frac{p(h) p(e\mid h)}{p(e)}$
 - Assume $0 < p(e) < 1$ and $p(h) > 0$
@@ -34,7 +32,7 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 - That is, the probability of $h$ increases in the light of $e$.
 - This may lead to the mistaken interpretation that $h$ is induced from $e$ by the process of Bayesian probabilistic inference.
 
-### The Problem Formulation
+## The Problem Formulation
 - Popper's decomposition: $h = (e \lor h) (e \rightarrow h) = d n$
     - where $d = (e \lor h)$ is the component of $h$ deducible from $e$, and $n=(e \rightarrow h)$ is the non-deducible component.
     - In other words, $h$ is true if $e$ is true AND $h$ holds beyond the scope of $e$.
@@ -46,7 +44,7 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
     - Is $p(n\mid e) > p(n)$?
 
 
-### A Visual Proof
+## A Visual Proof
 Truth value of $n=e \rightarrow h$ as a function of $e$ and $h$ is shown in the following table:
 
 ![e implies h](/assets/images/signum_figs/fig--poppermillershort--eimph.drawio.png)

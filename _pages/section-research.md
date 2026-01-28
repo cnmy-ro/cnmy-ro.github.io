@@ -35,6 +35,8 @@ Following is a short overview of my publications. For a more complete account, v
 
 ## Collaborations
 
+- Ilıcak, Rao, Najac, Lena, Imre, Galve, Alonso, Webb, Staring. "*Physics-Informed Deep Unrolled Network for Portable MR Image Reconstruction.*" [(arXiv 2025)](https://arxiv.org/abs/2509.11790)
+
 - Gao, Mody, Rao, Dankers, Staring. *"On factors that influence deep learning-based dose prediction of head and neck tumors."* [(Physics in Medicine & Biology 2025)](https://iopscience.iop.org/article/10.1088/1361-6560/adcfeb/meta)
 
 - Mody, Chaves-de-Plaza, Rao, Astrenidou, de Ridder, Hoekstra, Hildebrandt, Staring. *"Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation."* [(Melba 2024)](https://www.melba-journal.org/papers/2024:018.html)
