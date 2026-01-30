@@ -3,8 +3,9 @@ title: "A Short Exposition of the Popper-Miller Theorem"
 excerpt: ""
 last_modified_at: 2026-01-26T20:00:00-00:00
 author_profile: false
-header:
-  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+# header:
+#  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+categories: [epistemology]
 toc: true
 ---
 
@@ -68,6 +69,7 @@ More concretely:
     
     $= p(-e)p(-h\mid e) > 0$.
 - Q.E.D.
+- Note: Other proofs are possible, for e.g. Popper and Miller's original proof [(Popper and Miller, Letters to Nature 1985)](https://fitelson.org/probability/popper_miller.pdf).
 
 In other words:
 - The probability of the non-deducible component $n$ decreases after observing $e$. The net increase from $p(h)$ to $p(h\mid e)$ via Bayesian inference is because the increase from $p(d)$ to $p(d\mid e)=1$ more than compensates for the drop from $p(n)$ to $p(n\mid e)$.
