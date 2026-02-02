@@ -17,7 +17,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 ## First-Author Journal Publications
 
-- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling."* [(arXiv 2024)](https://arxiv.org/abs/2409.13477) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
+- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling."* (under review a MedIA) [(arXiv 2024)](https://arxiv.org/abs/2409.13477) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
 
 ## First-Author Conference Papers
@@ -35,7 +35,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 ## Collaborations
 
-- Beljaards, Nagtegaal, Rao, Dong, van Osch, Pezzotti, Doneva, Staring. *"DEEP-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration."* [()]()
+- Beljaards, Nagtegaal, Rao, Dong, van Osch, Pezzotti, Doneva, Staring. *"DEEP-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration."* [(under review at NMR in Biomed)]()
 
 - Ilıcak, Rao, Najac, Lena, Imre, Galve, Alonso, Webb, Staring. *"Physics-Informed Deep Unrolled Network for Portable MR Image Reconstruction."* [(arXiv 2025)](https://arxiv.org/abs/2509.11790)
 
