@@ -25,6 +25,7 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 - $h$: proposition representing the general hypothesis
 - $e$: proposition representing the local empirical evidence in favor of $h$
 
+
 ## The Given
 - $e$ is deducible from $h$, i.e. $p(e\mid h) = 1$
 - Bayes rule: $p(h\mid e) = \frac{p(h) p(e\mid h)}{p(e)}$
@@ -32,6 +33,7 @@ Central to this topic is the philosophical *Problem of Induction* first formulat
 - Hence: $p(h\mid e) > p(h)$ (Eq.1)
 - That is, the probability of $h$ increases in the light of $e$.
 - This may lead to the mistaken interpretation that $h$ is induced from $e$ by the process of Bayesian probabilistic inference.
+
 
 ## The Problem Formulation
 - Popper's decomposition: $h = (e \lor h) (e \rightarrow h) = d n$
