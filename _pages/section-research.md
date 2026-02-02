@@ -43,13 +43,13 @@ Following is a short overview of my publications. For a more complete account, v
 
 - Lyu, Rao, Staring, van Osch, Doneva, Lamb, Pezzotti. *"UPCMR: A Universal Prompt-Guided Model for Random Sampling Cardiac MRI Reconstruction."*. [(International Workshop on Statistical Atlases and Computational Models of the Heart 2024)](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_44)
 
-- Dong, Lena, O’Reilly, Mach, Rao, Li, van Osch, Webb, Börnert. *"Rapid Zero-shot Image Denoising for Quantitative Imaging on a Point-Of-Care 46-mT-MRI System."* [(ISMRM 2024)](https://archive.ismrm.org/2024/2842.html)
+- Dong, Lena, O’Reilly, Mach, Rao, Li, van Osch, Webb, Börnert. *"Rapid Zero-shot Image Denoising for Quantitative Imaging on a Point-of-Care 46-mT-MRI System."* [(ISMRM 2024)](https://archive.ismrm.org/2024/2842.html)
 
 - Mody, Chaves-de-Plaza, Rao, Astrenidou, de Ridder, Hoekstra, Hildebrandt, Staring. *"Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation."* [(Melba 2024)](https://www.melba-journal.org/papers/2024:018.html)
 
 - Beljaards, Pezzotti, Rao, Doneva, van Osch, Staring. *"AI‐based Motion Artifact Severity Estimation in Undersampled MRI Allowing for Selection of Appropriate Reconstruction Models."* [(Medical Physics 2024)](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16918)
 
-- Pai, Hadzic, Rao, Zhovannik, Dekker, Traverso, Asteriadis, Hortal. *"Frequency-domain-based Structure Losses for CycleGAN-based Cone-Beam Computed Tomography Translation."* [(Sensors 2023)](https://www.mdpi.com/1424-8220/23/3/1089)
+- Pai, Hadzic, Rao, Zhovannik, Dekker, Traverso, Asteriadis, Hortal. *"Frequency-Domain-based Structure Losses for CycleGAN-based Cone-Beam Computed Tomography Translation."* [(Sensors 2023)](https://www.mdpi.com/1424-8220/23/3/1089)
 
 - Oreiller et al. *"Head and Neck Tumor Segmentation in PET/CT: The HECKTOR Challenge."* [(Medical Image Analysis 2022)](https://www.sciencedirect.com/science/article/pii/S1361841521003819)
 
