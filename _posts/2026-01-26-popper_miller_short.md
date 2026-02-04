@@ -12,12 +12,12 @@ toc: true
 
 ## Introduction
 
-Probability theory generalizes propositional logic to reasoning with degrees of certainty and has therefore been used as the foundation of the scientific language in which humanity's best theories of nature are expressed. 
+Probability theory generalizes [propositional logic](https://plato.stanford.edu/entries/logic-propositional/) by enabling reasoning with degrees of certainty and has therefore been used as the foundation of the scientific language in which humanity's best theories of nature are expressed. 
 Science has often been mis-understood to be driven by the process of induction -- of obtaining supposedly absolute and general laws from limited observations of nature.
 Thus, under this assumption, it is natural to expect probabilistic logic to be able to explain the phenomenon of induction.
 Popper and Miller's result shatters this expectation. This short article attempts to be an intuitive exposition of the Popper-Miller Theorem [(Popper and Miller, Letters to Nature 1985)](https://fitelson.org/probability/popper_miller.pdf). 
 
-Central to this topic is the philosophical *Problem of Induction* first formulated by David Hume. [(Hume, *A Treatise of Human Nature*, 1739)](https://davidhume.org/texts/t/). The Problem of Induction may be stated as follows: 
+Central to this topic is the philosophical [*problem of induction*](https://plato.stanford.edu/entries/induction-problem/) first formulated by David Hume [(Hume, *A Treatise of Human Nature*, 1739)](https://davidhume.org/texts/t/). The problem of induction may be stated as follows: 
 > Given a set of local observations (local in time, space, etc.), how does it logically produce (or rather "induce") a general theory whose reach goes well beyond the local scope of this data?
 
 
@@ -71,7 +71,8 @@ More concretely:
     
     $= p(-e)p(-h\mid e) > 0$.
 - Q.E.D.
-- Note: Other proofs are possible, for e.g. Popper and Miller's original proof [(Popper and Miller, Letters to Nature 1985)](https://fitelson.org/probability/popper_miller.pdf).
+
+(*Note: Other proofs are possible, for e.g. Popper and Miller's original proof [(Popper and Miller, Letters to Nature 1985)](https://fitelson.org/probability/popper_miller.pdf).*)
 
 In other words:
 - The probability of the non-deducible component $n$ decreases after observing $e$. The net increase from $p(h)$ to $p(h\mid e)$ via Bayesian inference is because the increase from $p(d)$ to $p(d\mid e)=1$ more than compensates for the drop from $p(n)$ to $p(n\mid e)$.
