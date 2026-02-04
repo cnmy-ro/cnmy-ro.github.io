@@ -17,10 +17,12 @@ Following is a short overview of my publications. For a more complete account, v
 
 ## First-Author Journal Publications
 
-- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling."* (under review a MedIA) [(arXiv 2024)](https://arxiv.org/abs/2409.13477) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
+- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling."* [(under review a MedIA)]() [(arXiv 2024)](https://arxiv.org/abs/2409.13477) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
 
 ## First-Author Conference Papers
+
+- Rao, van Osch, Doneva, Meineke, de Weerdt, Beljaards, Staring. *"Analysis of the Information Contribution of Different Contrast Scans in an MRI Examination aided by Content/style Modeling"* [(ISMRM 2026)]()
 
 - Jabarimani, Rao, Ercan, Dong, Pezzotti, Doneva, Weerdt, van Osch, Staring, Nagtegaal. *"Accelerated FLAIR Imaging at 0.6T using T2W-guided Multi-contrast Deep Learning-based Reconstruction using a Zero-shot Approach."* [(ISMRM 2025)]()
 
@@ -34,6 +36,8 @@ Following is a short overview of my publications. For a more complete account, v
 
 
 ## Collaborations
+
+- van Straten, Rao, Nagtegaal, Breeuwer, van Osch, Börnert, Dong. *"Breast Diffusion-Weighted Multi-Shot EPI with Model-Based Deep Learning Reconstruction."* [(ISMRM 2026)]()
 
 - Beljaards, Nagtegaal, Rao, Dong, van Osch, Pezzotti, Doneva, Staring. *"DEEP-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration."* [(under review at NMR in Biomed)]()
 
