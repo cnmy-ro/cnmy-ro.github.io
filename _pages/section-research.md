@@ -45,7 +45,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 - Gao, Mody, Rao, Dankers, Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors."* [(PMB 2025)](https://iopscience.iop.org/article/10.1088/1361-6560/adcfeb/meta)
 
-- Lyu, Rao, Staring, van Osch, Doneva, Lamb, Pezzotti. *"UPCMR: A Universal Prompt-Guided Model for Random Sampling Cardiac MRI Reconstruction."*. [(International Workshop on Statistical Atlases and Computational Models of the Heart 2024)](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_44)
+- Lyu, Rao, Staring, van Osch, Doneva, Lamb, Pezzotti. *"UPCMR: A Universal Prompt-Guided Model for Random Sampling Cardiac MRI Reconstruction."*. [(STACOM 2024)](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_44)
 
 - Dong, Lena, O’Reilly, Mach, Rao, Li, van Osch, Webb, Börnert. *"Rapid Zero-shot Image Denoising for Quantitative Imaging on a Point-of-Care 46-mT-MRI System."* [(ISMRM 2024)](https://archive.ismrm.org/2024/2842.html)
 
