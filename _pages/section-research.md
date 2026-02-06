@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash** @remyloz](https://unsplash.com/@remyloz)"
 ---
 
-I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, generative modeling, representation learning, and (medical) imaging systems. Currently, I am doing my PhD in computational MRI working on accelerating multi-contrast MR scans, for e.g. by learning powerful joint representations of them and applying in image reconstruction.
+I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, generative modeling, multimodal and physics-guided representation learning, and (medical) imaging systems. Currently, I am doing my PhD in computational MRI working on accelerating multi-contrast MR scans, for e.g. by learning powerful disentangled representations of them and applying in image reconstruction.
 
 Following is a short overview of my publications. For a more complete account, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en) or [LinkedIn](https://www.linkedin.com/in/chinmay_rao).
 
@@ -30,7 +30,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 - Rao, Meineke, Pezzotti, Staring, van Osch, Doneva. *"Analysis of the Discretization Error vs. Estimation Time Tradeoff of MRF Dictionary Matching and the Advantage of the Neural Net-based Approach."* [(ISMRM 2023)](https://archive.ismrm.org/2023/2212.html)
 
-- Traverso, Rao, Briassoulli, Dekker, de Ruysscher, van Elmpt. *"Generating Synthetic Hypoxia Images from FDG-PET using Generative Adversarial Networks (GANs)."* [(Radiotherapy and Oncology 2022)](https://cris.maastrichtuniversity.nl/en/publications/generating-synthetic-hypoxia-images-from-fdg-pet-using-generative)
+- Traverso, Rao, Briassoulli, Dekker, de Ruysscher, van Elmpt. *"Generating Synthetic Hypoxia Images from FDG-PET using Generative Adversarial Networks (GANs)."* [(Radiotherapy and Oncology 2022)](https://www.sciencedirect.com/science/article/abs/pii/S0167814022035733)
 
 - Rao, Pai, Hadzic, Zhovannik, Bontempi, Dekker, Teuwen, Traverso. *"Oropharyngeal Tumour Segmentation using Ensemble 3D PET-CT Fusion Networks for the HECKTOR Challenge."* [(Springer LNCS 2021)](https://link.springer.com/chapter/10.1007/978-3-030-67194-5_8)
 

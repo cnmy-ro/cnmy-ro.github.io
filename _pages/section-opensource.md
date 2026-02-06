@@ -10,12 +10,12 @@ header:
   caption: "Photo credit: [**Unsplash** @joshredd](https://unsplash.com/@joshredd)"
 ---
 
-Following is a selection of my open-source contributions. Visit my [GitHub](https://github.com/cnmy-ro/) for a complete list.
+Following is a selection of my open-source projects and contributions. Visit my [GitHub](https://github.com/cnmy-ro/) for a complete list.
 
 
 ## Research Code
 
-Research software publicly released during my PhD and Masters.
+Research software publicly released during my PhD and MSc.
 
 - **PnP-CoSMo**: Iterative algorithm for multi-contrast MRI reconstruction based on content/style modeling. [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
@@ -31,11 +31,11 @@ Research software publicly released during my PhD and Masters.
 
 ## Personal Projects
 
-Personal open-source projects on topics ranging from machine learning to computational art and philosophy.
+Personal open-source projects on a diverse range of topics ranging from machine learning to computational art and philosophy.
 
 - **Nabla**: Automatic differentiation engine (a.k.a. "autograd") wrapper over NumPy. [(GitHub)](https://github.com/cnmy-ro/nabla)
 
-- **StyleGAN**: Simplified re-implementation of StyleGAN [(Karras et al. CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) in PyTorch. [(GitHub)](https://github.com/cnmy-ro/stylegan)
+- **StyleGAN**: Simplified custom re-implementation of StyleGAN [(Karras et al. CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) in PyTorch. [(GitHub)](https://github.com/cnmy-ro/stylegan)
 
 - **Psybernetic Art**: Open-source computational art. [(GitHub)](https://github.com/cnmy-ro/psybernetic-art)
 
