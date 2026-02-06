@@ -32,7 +32,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 - Traverso, Rao, Briassoulli, Dekker, de Ruysscher, van Elmpt. *"Generating Synthetic Hypoxia Images from FDG-PET using Generative Adversarial Networks (GANs)."* [(Radiotherapy and Oncology 2022)](https://www.sciencedirect.com/science/article/abs/pii/S0167814022035733)
 
-- Rao, Pai, Hadzic, Zhovannik, Bontempi, Dekker, Teuwen, Traverso. *"Oropharyngeal Tumour Segmentation using Ensemble 3D PET-CT Fusion Networks for the HECKTOR Challenge."* [(Springer LNCS 2021)](https://link.springer.com/chapter/10.1007/978-3-030-67194-5_8)
+- Rao, Pai, Hadzic, Zhovannik, Bontempi, Dekker, Teuwen, Traverso. *"Oropharyngeal Tumour Segmentation using Ensemble 3D PET-CT Fusion Networks for the HECKTOR Challenge."* [(HECKTOR at MICCAI 2020)](https://link.springer.com/chapter/10.1007/978-3-030-67194-5_8)
 
 
 ## Collaborations
@@ -45,7 +45,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 - Gao, Mody, Rao, Dankers, Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors."* [(PMB 2025)](https://iopscience.iop.org/article/10.1088/1361-6560/adcfeb/meta)
 
-- Lyu, Rao, Staring, van Osch, Doneva, Lamb, Pezzotti. *"UPCMR: A Universal Prompt-Guided Model for Random Sampling Cardiac MRI Reconstruction."*. [(STACOM 2024)](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_44)
+- Lyu, Rao, Staring, van Osch, Doneva, Lamb, Pezzotti. *"UPCMR: A Universal Prompt-Guided Model for Random Sampling Cardiac MRI Reconstruction."*. [(STACOM at MICCAI 2024)](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_44)
 
 - Dong, Lena, O’Reilly, Mach, Rao, Li, van Osch, Webb, Börnert. *"Rapid Zero-shot Image Denoising for Quantitative Imaging on a Point-of-Care 46-mT-MRI System."* [(ISMRM 2024)](https://archive.ismrm.org/2024/2842.html)
 
