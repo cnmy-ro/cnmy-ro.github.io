@@ -72,8 +72,6 @@ More concretely:
     $= p(-e)p(-h\mid e) > 0$.
 - Q.E.D.
 
-(*Note: Other proofs are possible, for e.g. Popper and Miller's original proof [(Popper and Miller, Letters to Nature 1985)](https://fitelson.org/probability/popper_miller.pdf).*)
-
 In other words:
 - The probability of the non-deducible component $n$ decreases after observing $e$. The net increase from $p(h)$ to $p(h\mid e)$ via Bayesian inference is because the increase from $p(d)$ to $p(d\mid e)=1$ more than compensates for the drop from $p(n)$ to $p(n\mid e)$.
 - The drop from $p(n)$ to $p(n\mid e)$ is proportional to both $p(-e)$ and $p(-h\mid e)$.
