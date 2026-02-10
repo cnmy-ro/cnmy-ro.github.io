@@ -24,7 +24,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 - Rao, van Osch, Doneva, Meineke, de Weerdt, Beljaards, Staring. *"Analysis of the Information Contribution of Different Contrast Scans in an MRI Examination aided by Content/style Modeling"* [(ISMRM 2026)]()
 
-- Jabarimani, Rao, Ercan, Dong, Pezzotti, Doneva, Weerdt, van Osch, Staring, Nagtegaal. *"Accelerated FLAIR Imaging at 0.6T using T2W-guided Multi-contrast Deep Learning-based Reconstruction using a Zero-shot Approach."* [(ISMRM 2025)]()
+- Jabarimani, Rao, Ercan, Dong, Pezzotti, Doneva, Weerdt, van Osch, Staring, Nagtegaal. *"Accelerated FLAIR Imaging at 0.6T using T2W-guided Multi-contrast Deep Learning-based Reconstruction using a Zero-shot Approach."* [(ISMRM 2025)](http://cds.ismrm.org/protected/25MPresentations/abstracts/2766_J4TnleSdO.html)
 
 - Rao, Beljaards, van Osch, Doneva, Meineke, Schülke, Pezzotti, de Weerdt, Staring. *"Guided Multicontrast Reconstruction based on the Decomposition of Content and Style."* [(ISMRM 2024)](https://archive.ismrm.org/2024/0808_0WSPOmQ8g.html)
 
@@ -39,7 +39,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 - van Straten, Rao, Nagtegaal, Breeuwer, van Osch, Börnert, Dong. *"Breast Diffusion-Weighted Multi-Shot EPI with Model-Based Deep Learning Reconstruction."* [(ISMRM 2026)]()
 
-- Beljaards, Nagtegaal, Rao, Dong, van Osch, Pezzotti, Doneva, Staring. *"DEEP-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration."* [(under review at NMR in Biomed)]()
+- Beljaards, Nagtegaal, Rao, Dong, van Osch, Pezzotti, Doneva, Staring. *"DEEP-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration."* [(NMR in Biomed)]()
 
 - Ilıcak, Rao, Najac, Lena, Imre, Galve, Alonso, Webb, Staring. *"Physics-Informed Deep Unrolled Network for Portable MR Image Reconstruction."* [(arXiv 2025)](https://arxiv.org/abs/2509.11790)
 

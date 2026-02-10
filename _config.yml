@@ -105,7 +105,7 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/chinmay_rao"
     - label: "Substack"
-      icon: "fab fa-substack"
+      icon: "bi bi-substack"
       url: "https://www.https://substack.com/@cnmyro"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
