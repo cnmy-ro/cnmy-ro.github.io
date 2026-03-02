@@ -31,7 +31,7 @@ Research software publicly released during my PhD and MSc.
 
 ## Personal Projects
 
-Personal open-source projects on diverse ranging from machine learning to computational art and philosophy.
+Personal open-source projects on diverse topics ranging from machine learning to computational art and philosophy.
 
 - **Nabla**: Slim automatic differentiation engine (a.k.a. "autograd") for Python and C. [(GitHub)](https://github.com/cnmy-ro/nabla)
 
