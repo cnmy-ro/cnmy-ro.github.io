@@ -41,6 +41,6 @@ Personal open-source projects on diverse topics ranging from machine learning to
 
 - **Ethica**: Computational exploration of the philosophical text [*"Ethics"*](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics) of Benedict de Spinoza. [(GitHub)](https://github.com/cnmy-ro/ethica)
 
-- **Evo-Episteme**: A systematic study of the evolutionary epistemology of Karl Popper. [(GitHub)](https://github.com/cnmy-ro/evo-episteme)
+- **Evo-Episteme**: A systematic exploration of the evolutionary epistemology of Karl Popper. [(GitHub)](https://github.com/cnmy-ro/evo-episteme)
 
 - **GEB**:  Computational exploration of ideas from the book [*"Gödel Escher Bach"*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) of Douglas Hofstadter. [(GitHub)](https://github.com/cnmy-ro/geb)
