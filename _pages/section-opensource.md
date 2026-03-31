@@ -23,7 +23,7 @@ Research software publicly released during my PhD and MSc.
 
 - **MRF-Syn**: PyTorch library for MR fingerprinting-based contrast synthesis. Implements MRF sequence description, EPG simulation, dictionary matching, and signal equations. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
 
-- **ROCI**: Repository of computational imaging algorithms. [(GitHub)](https://github.com/cnmy-ro/roci)
+- **ROCI**: Repository of computational imaging. [(GitHub)](https://github.com/cnmy-ro/roci)
 
 - **Ganslate**: Simple and extensible GAN image-to-image translation framework. [(GitHub)](https://github.com/ganslate-team/ganslate)
 
@@ -33,7 +33,7 @@ Research software publicly released during my PhD and MSc.
 
 Personal open-source projects on diverse topics ranging from machine learning to computational art and philosophy.
 
-- **Nabla**: Slim automatic differentiation engine (a.k.a. "autograd") for Python and C. [(GitHub)](https://github.com/cnmy-ro/nabla)
+- **Nabla**: Light-weight automatic differentiation engine (a.k.a. "autograd") for Python and C. [(GitHub)](https://github.com/cnmy-ro/nabla)
 
 - **StyleGAN**: Simplified custom re-implementation of StyleGAN [(Karras et al. CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) in PyTorch. [(GitHub)](https://github.com/cnmy-ro/stylegan)
 
