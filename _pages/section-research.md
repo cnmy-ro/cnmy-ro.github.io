@@ -43,6 +43,8 @@ Following is a short overview of my publications. For a more complete account, v
 
 - Ilıcak, Rao, Najac, Lena, Imre, Galve, Alonso, Webb, Staring. *"Physics-Informed Deep Unrolled Network for Portable MR Image Reconstruction."* [(arXiv 2025)](https://arxiv.org/abs/2509.11790)
 
+- Huaroc Moquillaza,Spieker, Rao, Meineke, Weiss, Schnabel, Doneva, Karampinos. *"Neural-network-based Accelerated Liver Water T1-mapping."* [(ISMRM 2025)]()
+
 - Gao, Mody, Rao, Dankers, Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors."* [(PMB 2025)](https://iopscience.iop.org/article/10.1088/1361-6560/adcfeb/meta)
 
 - Lyu, Rao, Staring, van Osch, Doneva, Lamb, Pezzotti. *"UPCMR: A Universal Prompt-Guided Model for Random Sampling Cardiac MRI Reconstruction."*. [(STACOM at MICCAI 2024)](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_44)
