@@ -33,7 +33,7 @@ Research software publicly released during my PhD and MSc.
 
 Personal open-source projects on diverse topics ranging from machine learning to computational art and philosophy.
 
-- **Nabla**: Light-weight automatic differentiation engine (a.k.a. "autograd") for Python and C. [(GitHub)](https://github.com/cnmy-ro/nabla)
+- **Nabla**: Lightweight automatic differentiation engine (a.k.a. "autograd") for Python and C. [(GitHub)](https://github.com/cnmy-ro/nabla)
 
 - **StyleGAN**: Simplified custom re-implementation of StyleGAN [(Karras et al. CVPR 2019)](http://openaccess.thecvf.com/content_CVPR_2019/html/Karras_A_Style-Based_Generator_Architecture_for_Generative_Adversarial_Networks_CVPR_2019_paper.html) in PyTorch. [(GitHub)](https://github.com/cnmy-ro/stylegan)
 
@@ -41,6 +41,6 @@ Personal open-source projects on diverse topics ranging from machine learning to
 
 - **Ethica**: Computational exploration of the philosophical text [*"Ethics"*](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics) of Benedict de Spinoza. [(GitHub)](https://github.com/cnmy-ro/ethica)
 
-- **Evo-Episteme**: A systematic exploration of the evolutionary epistemology of Karl Popper. [(GitHub)](https://github.com/cnmy-ro/evo-episteme)
+- **Evo-Episteme**: Exploration of the evolutionary epistemology of Karl Popper. [(GitHub)](https://github.com/cnmy-ro/evo-episteme)
 
 - **GEB**:  Computational exploration of ideas from the book [*"Gödel Escher Bach"*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) of Douglas Hofstadter. [(GitHub)](https://github.com/cnmy-ro/geb)
