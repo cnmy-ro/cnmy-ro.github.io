@@ -13,7 +13,7 @@ header:
 Following is a selection of my open-source projects and contributions. Visit my [GitHub](https://github.com/cnmy-ro/) for a complete list.
 
 
-## Research Code
+## Research Software
 
 Research software publicly released during my PhD and MSc.
 
@@ -44,3 +44,5 @@ Personal open-source projects on diverse topics ranging from machine learning to
 - **Evo-Episteme**: Exploration of the evolutionary epistemology of Karl Popper. [(GitHub)](https://github.com/cnmy-ro/evo-episteme)
 
 - **GEB**:  Computational exploration of ideas from the book [*"Gödel Escher Bach"*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) of Douglas Hofstadter. [(GitHub)](https://github.com/cnmy-ro/geb)
+
+- **Eidos**: Exploration of the Platonic dialogues. [(GitHub)](https://github.com/cnmy-ro/eidos)
