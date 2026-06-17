@@ -17,7 +17,7 @@ Following is a short overview of my publications. For a more complete account, v
 
 ## First-Author Journal Publications
 
-- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling."* [(under review a MedIA)]() [(arXiv 2024)](https://arxiv.org/abs/2409.13477) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
+- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling."* [(Medical Image Analysis 2026)]() [(arXiv 2024)](https://arxiv.org/abs/2409.13477) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
 
 ## First-Author Conference Papers

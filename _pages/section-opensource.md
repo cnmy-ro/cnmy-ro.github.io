@@ -19,7 +19,7 @@ Research software publicly released during my PhD and MSc.
 
 - **PnP-CoSMo**: Iterative algorithm for multi-contrast MRI reconstruction based on content/style modeling. [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
-- **LL-MR**: Low-level utilility library for computational MRI. [(GitHub)](https://github.com/cnmy-ro/llmr)
+- **LL-MR**: Low-level Python utilities library for computational MRI. [(GitHub)](https://github.com/cnmy-ro/llmr)
 
 - **MRF-Syn**: PyTorch library for MR fingerprinting-based contrast synthesis. Implements MRF sequence description, EPG simulation, dictionary matching, and signal equations. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
 
