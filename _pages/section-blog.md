@@ -14,4 +14,4 @@ header:
 
 Sig/Num is a blog series on a wide range of topics that include imaging, inverse problems, ML, information theory, theory of computation, and epistemology. It was made to help me organize and clarify my thoughts and put them in the public domain for open criticism and discussion.
 
-Subscribe to my [substack](https://substack.com/@cnmyro) for a better experience and a periodic newsletter.
+Subscribe to my [substack](https://substack.com/@cnmyro) for a better experience and an aperiodic newsletter.
