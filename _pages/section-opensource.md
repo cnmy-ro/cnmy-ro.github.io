@@ -17,16 +17,15 @@ Following is a selection of my open-source projects and contributions. Visit my 
 
 Research software publicly released during my PhD and MSc.
 
+- **ROCI**: Repository of computational imaging (ROCI) is a collection of minimalistic, high-quality, and self-contained PyTorch (re-)implementations of algorithms used in computational imaging. [(GitHub)](https://github.com/cnmy-ro/roci)
+
 - **PnP-CoSMo**: Iterative algorithm for multi-contrast MRI reconstruction based on content/style modeling. [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
 - **LL-MR**: Low-level Python utilities library for computational MRI. [(GitHub)](https://github.com/cnmy-ro/llmr)
 
-- **MRF-Syn**: PyTorch library for MR fingerprinting-based contrast synthesis. Implements MRF sequence description, EPG simulation, dictionary matching, and signal equations. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
-
-- **ROCI**: Repository of computational imaging. [(GitHub)](https://github.com/cnmy-ro/roci)
+- **MRF-Syn**: PyTorch library for MR fingerprinting-based contrast synthesis. Implements abstract MRF sequence description, EPG simulation, dictionary matching, and signal equations. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
 
 - **Ganslate**: Simple and extensible GAN image-to-image translation framework. [(GitHub)](https://github.com/ganslate-team/ganslate)
-
 
 
 ## Personal Projects
