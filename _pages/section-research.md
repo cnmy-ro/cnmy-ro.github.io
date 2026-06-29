@@ -12,7 +12,7 @@ header:
 
 I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, generative modeling, multimodal and physics-guided representation learning, and (medical) imaging systems. Currently, I am doing my PhD in computational MRI working on accelerating multi-contrast MR scans, for e.g. by learning powerful disentangled representations of them and applying in image reconstruction.
 
-Following is a selected list of my publications. For a complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en).
+Following is an overview of my publications. For a complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en).
 
 
 ## Journal Publications
