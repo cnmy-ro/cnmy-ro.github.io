@@ -12,18 +12,20 @@ header:
 
 I have a background in electronics engineering and artificial intelligence, with a professional interest in signal processing, generative modeling, multimodal and physics-guided representation learning, and (medical) imaging systems. Currently, I am doing my PhD in computational MRI working on accelerating multi-contrast MR scans, for e.g. by learning powerful disentangled representations of them and applying in image reconstruction.
 
-Following is a short overview of my publications. For a complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en).
+Following is a selected list of my publications. For a complete list, visit my [Google Scholar](https://scholar.google.com/citations?user=aNaTofQAAAAJ&hl=en).
 
 
 ## Journal Publications
 
-- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling."* [(Medical Image Analysis 2026)](https://www.sciencedirect.com/science/article/pii/S136184152600229X) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
+- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling."* [(Medical Image Analysis 2026)](https://www.sciencedirect.com/science/article/pii/S136184152600229X) [(Code)](https://github.com/cnmy-ro/pnp-cosmo)
 
+- Beljaards, van Osch, Nagtegaal, Keupp, Rao, Pezzotti, Doneva, Staring. *"Deep-Reorder: Refined Motion Correction for 3D Brain MRI via Iterative Data Regrouping."* [(under review)]()
 
-- Beljaards, Nagtegaal, Rao, Dong, van Osch, Pezzotti, Doneva, Staring. *"DEEP-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration."* [(NMR in Biomedicine)]()
+- Beljaards, Nagtegaal, Rao, Dong, van Osch, Pezzotti, Doneva, Staring. *"Deep-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration."* [(NMR in Biomedicine)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.70286)
 
 - Ilıcak, Rao, Najac, Lena, Imre, Galve, Alonso, Webb, Staring. *"Physics-Informed Deep Unrolled Network for Portable MR Image Reconstruction."* [(arXiv 2025)](https://arxiv.org/abs/2509.11790)
 
+- Gao, Mody, Rao, Dankers, and Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors"* [(Physics in Medicine & Biology)](https://pubmed.ncbi.nlm.nih.gov/40267938/)
 
 - Mody, Chaves-de-Plaza, Rao, Astrenidou, de Ridder, Hoekstra, Hildebrandt, Staring. *"Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation."* [(Melba 2024)](https://www.melba-journal.org/papers/2024:018.html)
 
@@ -31,12 +33,12 @@ Following is a short overview of my publications. For a complete list, visit my 
 
 - Pai, Hadzic, Rao, Zhovannik, Dekker, Traverso, Asteriadis, Hortal. *"Frequency-Domain-based Structure Losses for CycleGAN-based Cone-Beam Computed Tomography Translation."* [(Sensors 2023)](https://www.mdpi.com/1424-8220/23/3/1089)
 
-- Oreiller et al. *"Head and Neck Tumor Segmentation in PET/CT: The HECKTOR Challenge."* [(MedIA 2022)](https://www.sciencedirect.com/science/article/pii/S1361841521003819)
+- Oreiller et al. *"Head and Neck Tumor Segmentation in PET/CT: The HECKTOR Challenge."* [(Medical Image Analysis 2022)](https://www.sciencedirect.com/science/article/pii/S1361841521003819)
 
 
 ## Conference Papers
 
-- Rao, van Osch, Doneva, Meineke, de Weerdt, Beljaards, Staring. *"Analysis of the Information Contribution of Different Contrast Scans in an MRI Examination aided by Content/style Modeling"* [(ISMRM 2026, Oral + Poster)]()
+- Rao, van Osch, Doneva, Meineke, de Weerdt, Beljaards, Staring. *"Analysis of the Information Contribution of Different Contrast Scans in an MRI Examination aided by Content/style Modeling"* [(ISMRM 2026, Oral + AMPC Poster)]()
 
 - van Straten, Rao, Nagtegaal, Breeuwer, van Osch, Börnert, Dong. *"Breast Diffusion-Weighted Multi-Shot EPI with Model-Based Deep Learning Reconstruction."* [(ISMRM 2026)]()
 
