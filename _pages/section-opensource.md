@@ -17,7 +17,7 @@ Following is a selection of my open-source projects and contributions. Visit my 
 
 Research software publicly released during my PhD and MSc.
 
-- **ROCI**: Repository of computational imaging (ROCI) is a collection of minimalistic, high-quality, and self-contained PyTorch (re-)implementations of algorithms used in computational imaging. [(GitHub)](https://github.com/cnmy-ro/roci)
+- **ROCI**: Repository of computational imaging (ROCI) is a collection of minimalistic, high-quality, and self-contained PyTorch implementations of computational imaging algorithms. [(GitHub)](https://github.com/cnmy-ro/roci)
 
 - **PnP-CoSMo**: Iterative algorithm for multi-contrast MRI reconstruction based on content/style modeling. [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
@@ -42,6 +42,6 @@ Personal open-source projects on diverse topics ranging from machine learning to
 
 - **Evo-Episteme**: Exploration of the evolutionary epistemology of Karl Popper. [(GitHub)](https://github.com/cnmy-ro/evo-episteme)
 
-- **GEB**:  Computational exploration of ideas from the book [*"Gödel Escher Bach"*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) of Douglas Hofstadter. [(GitHub)](https://github.com/cnmy-ro/geb)
+- **GEB**: Computational exploration of ideas from the book [*"Gödel Escher Bach"*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) of Douglas Hofstadter. [(GitHub)](https://github.com/cnmy-ro/geb)
 
 - **Eidos**: Exploration of the Platonic dialogues. [(GitHub)](https://github.com/cnmy-ro/eidos)
