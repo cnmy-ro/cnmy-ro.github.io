@@ -12,6 +12,6 @@ header:
 
 > "It should be our pride to teach ourselves as well as we can to speak as clearly and unpretentiously as possible, and to avoid like the plague the suggestion that we are in the posession of knowledge which is too deep to be clearly and simply expressed." (Popper, The Myth of the Framework, Ch.4)
 
-Sig/Num is a blog series on a wide range of topics that include imaging, inverse problems, ML, information theory, theory of computation, and epistemology. It was made to help me organize and clarify my thoughts and put them in the public domain for open criticism and discussion.
+Sig/Num is a blog series on a wide range of topics that include imaging, inverse problems, ML, information theory, theory of computation, and epistemology. I made it as a means of organizing and clarifying my thoughts and putting them in the public domain for open criticism and discussion.
 
-Head over to my [substack](https://substack.com/@cnmyro) and subscribe for a better reading experience, actively engaging in discussions, and an aperiodic newsletter delivered directly in your inbox.
+Head over to my [substack](https://substack.com/@cnmyro) and subscribe for a better reading experience, for actively engaging in discussions, and for an aperiodic newsletter delivered straight into your mailbox.
