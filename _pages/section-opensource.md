@@ -27,6 +27,8 @@ Research software publicly released during my PhD and MSc.
 
 - **Ganslate**: Simple and extensible GAN image-to-image translation framework. [(GitHub)](https://github.com/ganslate-team/ganslate)
 
+- **PET-CT-data-pipeline**: Notebooks, scripts and utilities for PET-CT data processing. [(GitHub)](https://github.com/Maastro-CDS-Imaging-Group/PET-CT-data-pipeline)
+
 
 ## Personal Projects
 

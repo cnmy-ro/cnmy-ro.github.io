@@ -42,9 +42,11 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 - van Straten, Rao, Nagtegaal, Breeuwer, van Osch, Börnert, Dong. *"Breast Diffusion-Weighted Multi-Shot EPI with Model-Based Deep Learning Reconstruction."* [(ISMRM 2026)]()
 
+- Imre, Rao, Salehi, Staring, Ilıcak. *"Bridged Denoising Diffusion in Ultra-Low Field MRI Enhancement Challenge."* [(ULF-EnC at MICCAI 2025)](https://link.springer.com/chapter/10.1007/978-3-032-23344-8_7)
+
 - Jabarimani, Rao, Ercan, Dong, Pezzotti, Doneva, Weerdt, van Osch, Staring, Nagtegaal. *"Accelerated FLAIR Imaging at 0.6T using T2W-guided Multi-contrast Deep Learning-based Reconstruction using a Zero-shot Approach."* [(ISMRM 2025, Poster)](http://cds.ismrm.org/protected/25MPresentations/abstracts/2766_J4TnleSdO.html)
 
-- Huaroc Moquillaza, Spieker, Rao, Meineke, Weiss, Schnabel, Doneva, Karampinos. *"Neural-network-based Accelerated Liver Water T1-mapping."* [(ISMRM 2025)]()
+- Huaroc Moquillaza, Spieker, Rao, Meineke, Weiss, Schnabel, Doneva, Karampinos. *"Neural-network-based Accelerated Liver Water T1-mapping."* [(ISMRM 2025)](https://archive.ismrm.org/2025/0062_2SNjfPSI9.html)
 
 - Gao, Mody, Rao, Dankers, Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors."* [(PMB 2025)](https://iopscience.iop.org/article/10.1088/1361-6560/adcfeb/meta)
 
@@ -64,5 +66,7 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 ## Other Research Projects
 
 - Master thesis (2021): *"Predicting Tumor Hypoxia Maps from FDG-PET/CT Images using GANs"* [(GitHub)](https://github.com/cnmy-ro/master-thesis)
+
+- Master internship (2020): [(GitHub)](https://github.com/Maastro-CDS-Imaging-Group/HN-tumour-segmentation)
 
 - Bachelor thesis (2018): *"Adaptive Resonance Theory (ART) based Neural Computational Models for Image Clustering and Classification"* [(GitHub)](https://github.com/cnmy-ro/ART-visual)
