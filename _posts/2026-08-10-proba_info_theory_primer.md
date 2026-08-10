@@ -1,4 +1,13 @@
-# Abstractions and their Meaning I: A Primer on Probability and Information Theory
+---
+title: "Abstractions and their Meaning I: A Primer on Probability and Information Theory"
+excerpt: ""
+last_modified_at: 2026-08-10T20:00:00-00:00
+author_profile: false
+# header:
+#  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+categories: [information theory]
+toc: true
+---
 
 
 <!-- --- -->
