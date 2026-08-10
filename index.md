@@ -12,6 +12,6 @@ classes: wide
 
 Welcome to my website.
 
-I am a PhD candidate at the Leiden University Medical Center (the Netherlands) developing computational methods for accelerating MR imaging. I like spending my free time building interesting artifacts (electronics, code, artwork, etc.), reading, and cycling.
+I am a PhD candidate at the Leiden University Medical Center (the Netherlands) developing AI-based computational methods for accelerating multi-contrast MRI. I like spending my free time building interesting artifacts (electronics, code, artwork, etc.), reading, and cycling.
 
 This website serves as a compendium of my work and contributions, both professional and personal.
