@@ -19,11 +19,17 @@ Research software publicly released during my PhD and MSc.
 
 - **ROCI**: Repository of computational imaging (ROCI) is a collection of minimalistic, high-quality, and self-contained PyTorch implementations of computational imaging algorithms. [(GitHub)](https://github.com/cnmy-ro/roci)
 
-- **PnP-CoSMo**: Iterative algorithm for multi-contrast MRI reconstruction based on content/style modeling. [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
+<!-- - **SensFer** -->
+
+<!-- - **CoSMo-Genesis** -->
+
+- **MRF-Syn**: PyTorch library for MR fingerprinting-based contrast synthesis. Implements abstract MRF sequence description, EPG simulation, dictionary matching, and signal equations. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
 
 - **LL-MR**: Low-level Python utilities library for computational MRI. [(GitHub)](https://github.com/cnmy-ro/llmr)
 
-- **MRF-Syn**: PyTorch library for MR fingerprinting-based contrast synthesis. Implements abstract MRF sequence description, EPG simulation, dictionary matching, and signal equations. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
+<!-- - **MC-MRI-datatools** -->
+
+- **Neuro-MRI-ML**: A compendium of resources on neuroimaging, MRI, and ML. [(GitHub)](https://github.com/cnmy-ro/neuro-mri-ml)
 
 - **Ganslate**: Simple and extensible GAN image-to-image translation framework. [(GitHub)](https://github.com/ganslate-team/ganslate)
 
