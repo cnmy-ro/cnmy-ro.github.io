@@ -23,6 +23,11 @@ Central to this topic is the philosophical [*problem of induction*](https://plat
 This is a profound problem as it questions the foundation of what we can possibly know, both as individual entities living our personal lives and as a knowledge-creating scientific community. How does a child implicitly learn the physics of the World and the social norms of its culture by merely interacting with them, and what is the reach of its explanations? How robust is the knowledge that is learned by evolutionary selection, encoded in genes, and transmitted across aeons? What exactly happens when an AI system is learning from data, and is it possible to know a priori the full set of scenarios and ways in which it will fail? What is the guarantee that the World as we understand it will keep working the same way it always has — can the rules not change the very next moment?
 
 
+## TL;DR
+- Logical induction of general laws from limited data is not a thing
+- Bayesian inference does not model the scientific method of conjecture and refutation
+
+
 ## Notation
 - $h$: proposition representing the general hypothesis
 - $e$: proposition representing the local empirical evidence in favor of $h$

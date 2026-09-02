@@ -17,7 +17,9 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 ## Journal Publications
 
-- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling"* [(Medical Image Analysis 2026)](https://www.sciencedirect.com/science/article/pii/S136184152600229X) [(Code)](https://github.com/cnmy-ro/pnp-cosmo)
+- Rao, Ilıcak, van Osch, Doneva, Beljaards, Jabarimani, Pezzotti, Staring. *"Data-Efficient Networks for Multi-Contrast MRI Reconstruction based on a Generalized Content/Style Prior."* [(arXiv 2026)]()
+
+- Rao, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling"* [(Medical Image Analysis 2026)](https://www.sciencedirect.com/science/article/pii/S136184152600229X) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
 - Beljaards, van Osch, Nagtegaal, Keupp, Rao, Pezzotti, Doneva, Staring. *"Deep-Reorder: Refined Motion Correction for 3D Brain MRI via Iterative Data Regrouping"* [(under review)]()
 
