@@ -40,9 +40,9 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 ## Conference Papers
 
-- Rao, van Osch, Doneva, Meineke, de Weerdt, Beljaards, Staring. *"Analysis of the Information Contribution of Different Contrast Scans in an MRI Examination aided by Content/style Modeling"* [(ISMRM 2026, Oral + AMPC Poster)]()
+- Rao, van Osch, Doneva, Meineke, de Weerdt, Beljaards, Staring. *"Analysis of the Information Contribution of Different Contrast Scans in an MRI Examination aided by Content/style Modeling"* [(ISMRM 2026, Oral + AMPC Poster)](http://echo.ismrm.org/p/ISMRM2026/271-01-037)
 
-- van Straten, Rao, Nagtegaal, Breeuwer, van Osch, Börnert, Dong. *"Breast Diffusion-Weighted Multi-Shot EPI with Model-Based Deep Learning Reconstruction"* [(ISMRM 2026)]()
+- van Straten, Rao, Nagtegaal, Breeuwer, van Osch, Börnert, Dong. *"Breast Diffusion-Weighted Multi-Shot EPI with Model-Based Deep Learning Reconstruction"* [(ISMRM 2026)](http://echo.ismrm.org/p/ISMRM2026/461-04-008)
 
 - Imre, Rao, Salehi, Staring, Ilıcak. *"Bridged Denoising Diffusion in Ultra-Low Field MRI Enhancement Challenge"* [(ULF-EnC at MICCAI 2025)](https://link.springer.com/chapter/10.1007/978-3-032-23344-8_7)
 
