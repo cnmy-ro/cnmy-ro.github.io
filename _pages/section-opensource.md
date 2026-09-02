@@ -29,8 +29,6 @@ Research software publicly released during my PhD and MSc.
 
 <!-- - **MC-MRI-datatools** -->
 
-- **Neuro-MRI-ML**: A compendium of resources on neuroimaging, MRI, and ML. [(GitHub)](https://github.com/cnmy-ro/neuro-mri-ml)
-
 - **Ganslate**: Simple and extensible GAN image-to-image translation framework. [(GitHub)](https://github.com/ganslate-team/ganslate)
 
 - **PET-CT-data-pipeline**: Notebooks, scripts and utilities for PET-CT data processing. [(GitHub)](https://github.com/Maastro-CDS-Imaging-Group/PET-CT-data-pipeline)
@@ -39,6 +37,8 @@ Research software publicly released during my PhD and MSc.
 ## Personal Projects
 
 Personal open-source projects on diverse topics ranging from machine learning to computational art and philosophy.
+
+- **Neuro-MRI-ML**: A compendium of resources on neuroimaging, MRI, and ML. [(GitHub)](https://github.com/cnmy-ro/neuro-mri-ml)
 
 - **Nabla**: Lightweight automatic differentiation engine (a.k.a. "autograd") for Python and C. [(GitHub)](https://github.com/cnmy-ro/nabla)
 
