@@ -15,15 +15,15 @@ Following is a selection of my open-source projects and contributions. Visit my 
 
 ## Research Software
 
-Research software publicly released during my PhD and MSc.
+Open-source code based on my research or to which I have contributed.
 
 - **ROCI**: Repository of computational imaging (ROCI) is a collection of minimalistic, high-quality, and self-contained PyTorch implementations of computational imaging algorithms. [(GitHub)](https://github.com/cnmy-ro/roci)
 
 <!-- - **SensFer** -->
 
-<!-- - **CoSMo-Genesis** -->
+<!-- - **CoSMo-genesis** -->
 
-- **MRF-Syn**: PyTorch library for MR fingerprinting-based contrast synthesis. Implements abstract MRF sequence description, EPG simulation, dictionary matching, and signal equations. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
+- **MRF-Syn**: PyTorch library for MR fingerprinting-based contrast synthesis. Implements abstract MRF sequence classes, EPG simulation, dictionary matching, and signal equations. [(GitHub)](https://github.com/cnmy-ro/mrfsim)
 
 - **LL-MR**: Low-level Python utilities library for computational MRI. [(GitHub)](https://github.com/cnmy-ro/llmr)
 
@@ -32,6 +32,8 @@ Research software publicly released during my PhD and MSc.
 - **Ganslate**: Simple and extensible GAN image-to-image translation framework. [(GitHub)](https://github.com/ganslate-team/ganslate)
 
 - **PET-CT-data-pipeline**: Notebooks, scripts and utilities for PET-CT data processing. [(GitHub)](https://github.com/Maastro-CDS-Imaging-Group/PET-CT-data-pipeline)
+
+- **ART-visual**: Python implementation of neural nets based on adaptive resonance theory for computer vision applications. [(GitHub)](https://github.com/cnmy-ro/ART-visual)
 
 
 ## Personal Projects
@@ -46,9 +48,9 @@ Personal open-source projects on diverse topics ranging from machine learning to
 
 - **Psybernetic Art**: Open-source computational art. [(GitHub)](https://github.com/cnmy-ro/psybernetic-art)
 
-- **Ethica**: Computational exploration of the philosophical text [*"Ethics"*](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics) of Benedict de Spinoza. [(GitHub)](https://github.com/cnmy-ro/ethica)
-
 - **Evo-Episteme**: Exploration of the evolutionary epistemology of Karl Popper. [(GitHub)](https://github.com/cnmy-ro/evo-episteme)
+
+- **Ethica**: Computational exploration of the philosophical text [*"Ethics"*](https://en.wikipedia.org/wiki/Spinoza%27s_Ethics) of Benedict de Spinoza. [(GitHub)](https://github.com/cnmy-ro/ethica)
 
 - **GEB**: Computational exploration of ideas from the book [*"Gödel Escher Bach"*](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach) of Douglas Hofstadter. [(GitHub)](https://github.com/cnmy-ro/geb)
 
