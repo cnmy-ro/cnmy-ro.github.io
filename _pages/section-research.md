@@ -21,13 +21,13 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 - **Rao**, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling"* [(Medical Image Analysis 2026)](https://www.sciencedirect.com/science/article/pii/S136184152600229X) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
-- Beljaards, van Osch, Nagtegaal, Keupp, **Rao**, Pezzotti, Doneva, Staring. *"Deep-Reorder: Refined Motion Correction for 3D Brain MRI via Iterative Data Regrouping"* [(under review)]()
+- Beljaards, van Osch, Nagtegaal, Keupp, **Rao**, Pezzotti, Doneva, Staring. *"Deep-Reorder: Refined Motion Correction for 3D Brain MRI via Iterative Data Regrouping"* [(Accepted at MRM)]()
 
 - Beljaards, Nagtegaal, **Rao**, Dong, van Osch, Pezzotti, Doneva, Staring. *"Deep-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration"* [(NMR in Biomedicine)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.70286)
 
 - Ilıcak, **Rao**, Najac, Lena, Imre, Galve, Alonso, Webb, Staring. *"Physics-Informed Deep Unrolled Network for Portable MR Image Reconstruction"* [(arXiv 2025)](https://arxiv.org/abs/2509.11790)
 
-- Gao, Mody, **Rao**, Dankers, and Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors"* [(Physics in Medicine & Biology)](https://pubmed.ncbi.nlm.nih.gov/40267938/)
+- Gao, Mody, **Rao**, Dankers, Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors"* [(Physics in Medicine & Biology)](https://pubmed.ncbi.nlm.nih.gov/40267938/)
 
 - Mody, Chaves-de-Plaza, **Rao**, Astrenidou, de Ridder, Hoekstra, Hildebrandt, Staring. *"Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation"* [(Melba 2024)](https://www.melba-journal.org/papers/2024:018.html)
 

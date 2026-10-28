@@ -40,7 +40,7 @@ Open-source code based on my research or to which I have contributed.
 
 Personal open-source projects on diverse topics ranging from machine learning to computational art and philosophy.
 
-- **Neuro-MRI-ML**: A compendium of resources on neuroimaging, MRI, and ML. [(GitHub)](https://github.com/cnmy-ro/neuro-mri-ml)
+<!-- - **Neuro-MRI-ML**: A compendium of resources on neuroimaging, MRI, and ML. [(GitHub)](https://github.com/cnmy-ro/neuro-mri-ml) -->
 
 - **Nabla**: Lightweight automatic differentiation engine (a.k.a. "autograd") for Python and C. [(GitHub)](https://github.com/cnmy-ro/nabla)
 
