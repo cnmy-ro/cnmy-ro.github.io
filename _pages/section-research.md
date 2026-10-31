@@ -21,13 +21,13 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 - **Rao**, van Osch, Pezzotti, de Bresser, van Buchem, Beljaards, Meineke, de Weerdt, Lu, Doneva, Staring. *"A Plug-and-Play Method for Guided Multi-contrast MRI Reconstruction based on Content/Style Modeling"* [(Medical Image Analysis 2026)](https://www.sciencedirect.com/science/article/pii/S136184152600229X) [(GitHub)](https://github.com/cnmy-ro/pnp-cosmo)
 
-- Beljaards, van Osch, Nagtegaal, Keupp, **Rao**, Pezzotti, Doneva, Staring. *"Deep-Reorder: Refined Motion Correction for 3D Brain MRI via Iterative Data Regrouping"* [(Accepted at MRM)]()
+- Beljaards, van Osch, Nagtegaal, Keupp, **Rao**, Pezzotti, Doneva, Staring. *"Deep-Reorder: Refined Motion Correction for 3D Brain MRI via Iterative Data Regrouping"* [(Accepted at MRM 2026)]()
 
-- Beljaards, Nagtegaal, **Rao**, Dong, van Osch, Pezzotti, Doneva, Staring. *"Deep-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration"* [(NMR in Biomedicine)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.70286)
+- Beljaards, Nagtegaal, **Rao**, Dong, van Osch, Pezzotti, Doneva, Staring. *"Deep-DISORDER: Motion Correction in 3D MRI via Segment Reconstruction and Registration"* [(NMR in Biomedicine 2026)](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/nbm.70286)
 
 - Ilıcak, **Rao**, Najac, Lena, Imre, Galve, Alonso, Webb, Staring. *"Physics-Informed Deep Unrolled Network for Portable MR Image Reconstruction"* [(arXiv 2025)](https://arxiv.org/abs/2509.11790)
 
-- Gao, Mody, **Rao**, Dankers, Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors"* [(Physics in Medicine & Biology)](https://pubmed.ncbi.nlm.nih.gov/40267938/)
+- Gao, Mody, **Rao**, Dankers, Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors"* [(Physics in Medicine & Biology 2025)](https://pubmed.ncbi.nlm.nih.gov/40267938/)
 
 - Mody, Chaves-de-Plaza, **Rao**, Astrenidou, de Ridder, Hoekstra, Hildebrandt, Staring. *"Improving Uncertainty-Error Correspondence in Deep Bayesian Medical Image Segmentation"* [(Melba 2024)](https://www.melba-journal.org/papers/2024:018.html)
 
@@ -52,7 +52,7 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 - Huaroc Moquillaza, Spieker, **Rao**, Meineke, Weiss, Schnabel, Doneva, Karampinos. *"Neural-network-based Accelerated Liver Water T1-mapping"* [(ISMRM 2025)](https://archive.ismrm.org/2025/0062_2SNjfPSI9.html)
 
-- Gao, Mody, **Rao**, Dankers, Staring. *"On Factors that Influence Deep learning-based Dose Prediction of Head and Neck Tumors"* [(PMB 2025)](https://iopscience.iop.org/article/10.1088/1361-6560/adcfeb/meta)
+- Gao, Mody, **Rao**, Habraken, Staring, Dankers. *"Deep Learning-Based Dose Prediction for Head and Neck Tumors: Influence of Loss Function and Model Architecture"* [(ESTRO Annual Congress 2025)](https://www.researchgate.net/publication/391939976_1856_Deep_Learning-Based_Dose_Prediction_for_Head_and_Neck_Tumors_Influence_of_Loss_Function_and_Model_Architecture)
 
 - Lyu, **Rao**, Staring, van Osch, Doneva, Lamb, Pezzotti. *"UPCMR: A Universal Prompt-Guided Model for Random Sampling Cardiac MRI Reconstruction"*. [(STACOM at MICCAI 2024)](https://link.springer.com/chapter/10.1007/978-3-031-87756-8_44)
 
@@ -62,7 +62,9 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 - **Rao**, Meineke, Pezzotti, Staring, van Osch, Doneva. *"Analysis of the Discretization Error vs. Estimation Time Tradeoff of MRF Dictionary Matching and the Advantage of the Neural Net-based Approach"* [(ISMRM 2023, Poster)](https://archive.ismrm.org/2023/2212.html)
 
-- Traverso, **Rao**, Briassoulli, Dekker, de Ruysscher, van Elmpt. *"Generating Synthetic Hypoxia Images from FDG-PET using Generative Adversarial Networks (GANs)"* [(Radiotherapy and Oncology 2022)](https://www.sciencedirect.com/science/article/abs/pii/S0167814022035733)
+- Traverso, Pai, Hadžić, **Rao**, Canters, Dekker, Briassouli, Quesada, Teuwen. *"Evaluating the Feasibility of Using Deep Learning Models for Synthetic Image Generation in Adaptive Radiotherapy"* [(European Congress of Medical Physics 2022)](https://www.researchgate.net/publication/366305678_EVALUATING_THE_FEASIBILITY_OF_USING_DEEP_LEARNING_MODELS_FOR_SYNTHETIC_IMAGE_GENERATION_IN_ADAPTIVE_RADIOTHERAPY)
+
+- Traverso, **Rao**, Briassoulli, Dekker, de Ruysscher, van Elmpt. *"Generating Synthetic Hypoxia Images from FDG-PET using Generative Adversarial Networks (GANs)"* [(ESTRO Annual Congress 2022)](https://www.sciencedirect.com/science/article/abs/pii/S0167814022035733)
 
 - **Rao**, Pai, Hadzic, Zhovannik, Bontempi, Dekker, Teuwen, Traverso. *"Oropharyngeal Tumour Segmentation using Ensemble 3D PET-CT Fusion Networks for the HECKTOR Challenge"* [(HECKTOR at MICCAI 2020)](https://link.springer.com/chapter/10.1007/978-3-030-67194-5_8)
 
