@@ -17,7 +17,7 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 ## Journal Publications
 
-- Efe Ilıcak, Baris Imre, **Rao**, Najac, van den Broek, Lena, Webb, Staring. *"A Deep Unrolled Neural Network for Accelerated Portable Low-Field MRI Reconstruction"* [(Under review, arXiv 2026)]()
+- Ilıcak, Imre, **Rao**, Najac, van den Broek, Lena, Webb, Staring. *"A Deep Unrolled Neural Network for Accelerated Portable Low-Field MRI Reconstruction"* [(Under review, arXiv 2026)]()
 
 - **Rao**, Ilıcak, van Osch, Doneva, Beljaards, Jabarimani, Pezzotti, Staring. *"Data-Efficient Networks for Multi-Contrast MRI Reconstruction based on a Generalized Content/Style Prior"* [(Under review, arXiv 2026)](https://arxiv.org/abs/2609.01959)
 
