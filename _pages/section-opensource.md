@@ -15,7 +15,7 @@ Following is a selection of my open-source projects and contributions. Visit my 
 
 ## Research Software
 
-Open-source code based on my research or to which I have contributed.
+Open-source research software based on my work, including collaborations.
 
 - **ROCI**: Repository of computational imaging (ROCI) is a collection of minimalistic, high-quality, and self-contained PyTorch implementations of computational imaging algorithms. [(GitHub)](https://github.com/cnmy-ro/roci)
 
