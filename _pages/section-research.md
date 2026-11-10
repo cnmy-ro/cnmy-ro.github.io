@@ -17,9 +17,9 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 ## Journal Publications
 
-<!-- - Efe Ilıcak, Baris Imre, **Rao**, Najac, van den Broek, Lena, Webb, Staring. *"A Deep Unrolled Neural Network for Accelerated Portable Low-Field MRI Reconstruction"* [(arXiv 2026)]() -->
+- Efe Ilıcak, Baris Imre, **Rao**, Najac, van den Broek, Lena, Webb, Staring. *"A Deep Unrolled Neural Network for Accelerated Portable Low-Field MRI Reconstruction"* [(Under review, arXiv 2026)]()
 
-- **Rao**, Ilıcak, van Osch, Doneva, Beljaards, Jabarimani, Pezzotti, Staring. *"Data-Efficient Networks for Multi-Contrast MRI Reconstruction based on a Generalized Content/Style Prior"* [(arXiv 2026)](https://arxiv.org/abs/2609.01959)
+- **Rao**, Ilıcak, van Osch, Doneva, Beljaards, Jabarimani, Pezzotti, Staring. *"Data-Efficient Networks for Multi-Contrast MRI Reconstruction based on a Generalized Content/Style Prior"* [(Under review, arXiv 2026)](https://arxiv.org/abs/2609.01959)
 
 - Beljaards, van Osch, Nagtegaal, Keupp, **Rao**, Pezzotti, Doneva, Staring. *"Deep-Reorder: Refined Motion Correction for 3D Brain MRI via Iterative Data Regrouping"* [(Magnetic Resonance in Medicine 2026)](https://onlinelibrary.wiley.com/doi/10.1002/mrm.70634)
 
@@ -42,7 +42,7 @@ Following is an overview of my publications. For a complete list, visit my [Goog
 
 ## Conference Papers
 
-<!-- - Li, van Straten, Liu, **Rao**, Voormolen, Börnert, van Osch, Dong. *"Self-supervised estimation of residual fat signal in fat-suppressed breast DWI with interactive synthetic diffusion contrast"* [(Submitted to ISMRM 2027)]() -->
+- Li, van Straten, Liu, **Rao**, Voormolen, Börnert, van Osch, Dong. *"Self-supervised estimation of residual fat signal in fat-suppressed breast DWI with interactive synthetic diffusion contrast"* [(Submitted to ISMRM 2027)]()
 
 - **Rao**, van Osch, Doneva, Meineke, de Weerdt, Beljaards, Staring. *"Analysis of the Information Contribution of Different Contrast Scans in an MRI Examination aided by Content/style Modeling"* [(ISMRM 2026, Oral + AMPC Poster)](http://echo.ismrm.org/p/ISMRM2026/271-01-037)
 
